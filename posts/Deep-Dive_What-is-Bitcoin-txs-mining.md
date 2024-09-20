@@ -16,7 +16,7 @@ taxonomy:
 
 ## Excerpt
 
-So you worked your way through the (L)earn Bitcoin Course but still you don't understand how transactions work or what Proof of Work mining and a blockchain is. No worries, learning Bitcoin requires going back and forth while deepening single topics. This presentation from the Indonesia Bitcoin Conference 2023 offers a comprehensive introduction to Bitcoin and shows exactly how everything is working together. It is suitable for beginners as well as for those who want to deepen their knowledge. 
+So you worked your way through the (L)earn Bitcoin Course but still you don't understand how transactions work or what Proof of Work mining and a blockchain is. No worries, learning Bitcoin requires going back and forth while deepening single topics. This presentation from the Indonesia Bitcoin Conference 2023 offers a comprehensive introduction to Bitcoin and shows exactly how everything is working together. It is suitable for beginners as well as for those who want to deepen their knowledge. -
 
 00:00 Introduction 
 01:18 What is Bitcoin? 
