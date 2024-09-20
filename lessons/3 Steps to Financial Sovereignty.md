@@ -9,7 +9,7 @@ featured_image: /_images/3StepstoFinancialSovereignty.jpeg
 <div style="margin-bottom:30px;"></div>
 
 ## Transcript
-
+bff
 From the staircase to financial sovereignty. Now, we are going into the details, what that means. What are the steps to financial sovereignty? 
 
 As said before, it's a lot of responsibility, yes, to hold your own keys, but you also have great freedom because no one can steal your money. No one can censor your bitcoin or freeze them or exchange it to just another currency, a valueless Zimbabwean dollar, for instance. So let's take a look at that staircase to financial sovereignty. What does this mean?
