@@ -26,7 +26,7 @@ So you worked your way through the (L)earn Bitcoin Course but still you don't un
 15:45 What is the Proof-of-Work mining? 
 20:16 What is Bitcoin's fixed supply? 
 21:29 Why are the transaction fees so important? 
-25:05 Closing
+25:05 Closing -
 
 ## Transcript
 
