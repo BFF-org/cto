@@ -4,7 +4,7 @@ post_status: publish
 featured_image: /_images/_Self-Custody-Green-Wallet-vimeo.png
 ---
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/887498272?h=921eac6775&amp;badge=0&amp;autopause=0&amp;quality_selector=1&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="How to Use a Bitcoin Self-Custody Wallet: Blockstream Green"></iframe></div>
+<iframe src="https://player.vimeo.com/video/887498272?h=921eac6775&amp;badge=0&amp;autopause=0&amp;quality_selector=1&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="How to Use a Bitcoin Self-Custody Wallet: Blockstream Green"></iframe>
 
 <div style="margin-bottom:30px;"></div>
 
