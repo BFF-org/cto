@@ -1,6 +1,6 @@
 ---
 title: Aqua Wallet
-post_status: publish
+post_status: draft
 featured_image: /_images/......jpeg
 ---
 
