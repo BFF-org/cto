@@ -30,7 +30,7 @@ So you worked your way through the (L)earn Bitcoin Course but still you don't un
 
 ## Transcript
 
-I'm the founder of Bitcoin for Fairness, which is a non-profit initiative, whose goal it is to bring Bitcoin education to countries where I think that people need it the most. I'm also the author of (L)earn Bitcoin, a book for Bitcoin beginners and I recently published an online learning platform called Crack The Orange. That's why you have those stickers on your seats. And I spent 12 months recently in Zimbabwe, Zambia, South Africa, and Ghana toeducate myself and learn from the people there, what their problems with money are. And I believe they are very similar to the problems with money that people have in Indonesia. 
+I'm the founder of Bitcoin for Fairness, which is a non-profit initiative, whose goal it is to bring Bitcoin education to countries where I think that people need it the most. I'm also the author of (L)earn Bitcoin, a book for Bitcoin beginners and I recently published an online learning platform called Crack The Orange. That's why you have those stickers on your seats. And I spent 12 months recently in Zimbabwe, Zambia, South Africa, and Ghana to educate myself and learn from the people there, what their problems with money are. And I believe they are very similar to the problems with money that people have in Indonesia. 
 
 What's the content of this half hour? It's about what is Bitcoin, the history of Bitcoin, background, and the properties of Bitcoin? What is needed to send and receive bitcoin? How do Bitcoin transactions work? What is mining? And then transaction fees. So, I try to cover everything for people who are new to Bitcoin and maybe also for those who are a little bit more advanced. 
 
