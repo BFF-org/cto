@@ -20,7 +20,7 @@ In my keynote at the Africa Bitcoin Conference, I focus on how Africa is empower
 
 ## Transcript
 
-Hello everyone. Thank you for inviting me here to the second edition of the Africa Bitcoin Conference. It's the second visit here for me and I'm feeling very honored to be a part of this important event. I want to thank you for coming because you are the ones who will carry the torch of financial freedom forward. Each one of you has the power to change the world. 
+Hello everyone! Thank you for inviting me here to the second edition of the Africa Bitcoin Conference. It's the second visit here for me and I'm feeling very honored to be a part of this important event. I want to thank you for coming because you are the ones who will carry the torch of financial freedom forward. Each one of you has the power to change the world. 
 
 I'm a Bitcoin educator and the founder of Bitcoin For Fairness, a nonprofit initiative sharing Bitcoin knowledge globally. The first time I visited the continent, I was in Zimbabwe and Botswana to learn about the challenges for people on the ground and how Bitcoin can empower Africans. This was in early 2020. After the pandemic, I came back to spend 12 months in Zimbabwe, Zambia, Ghana, and South Africa. I have been doing workshops, talks, podcast interviews, supporting local Bitcoin communities, and building bridges between people and initiatives from different countries. This conference marks the beginning of my second longest stay here while I am focusing on strengthening and scaling education today. I want to share my experiences and understanding of how Bitcoin empowers Africa and how Africans can empower Bitcoin with you. 
 
