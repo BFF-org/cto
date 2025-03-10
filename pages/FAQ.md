@@ -1,7 +1,7 @@
 ---
 title: FAQ
 menu_order: 1
-post_status: publish
+post_status: draft
 post_excerpt: Frequently Asked Questions
 featured_image: 
 ---
