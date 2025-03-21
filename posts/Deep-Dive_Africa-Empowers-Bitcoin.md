@@ -7,6 +7,9 @@ taxonomy:
  category:
   - deep-dive
   - for-members
+post_tag:
+        - tag-1
+        - tag-2
   
 ---
 
