@@ -7,10 +7,7 @@ taxonomy:
  category:
   - deep-dive
   - for-members
-post_tag:
-        - tag-1
-        - tag-2
-  
+
 ---
 
 <iframe src="https://player.vimeo.com/video/894517385?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="1000" height="563" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" title="231203-AfroBitcoin-Slides"></iframe>
