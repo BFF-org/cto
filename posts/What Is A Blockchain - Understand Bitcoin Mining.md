@@ -11,6 +11,8 @@ taxonomy:
 
 <iframe src="https://player.vimeo.com/video/1033158997?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="What Is A Blockchain? Mystery Solved - Understand Bitcoin Mining"></iframe>
 
+<iframe src="https://player.vimeo.com/video/894517385?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="1000" height="563" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" title="231203-AfroBitcoin-Slides"></iframe>
+
 <div style="margin-bottom:30px;"></div>
 
 ## Excerpt
