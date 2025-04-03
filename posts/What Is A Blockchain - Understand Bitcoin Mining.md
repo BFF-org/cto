@@ -1,6 +1,6 @@
 ---
 title: What Is A Blockchain? - Understand Bitcoin Mining
-post_status: draft
+post_status: publish
 post_excerpt: I break down how SHA-256 works and why it’s essential to Bitcoin’s mining and blockchain security.
 featured_image: /_images/WhatIsABlockchain-Mystery-Solved.jpeg
 taxonomy:
