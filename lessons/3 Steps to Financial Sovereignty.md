@@ -4,8 +4,6 @@ post_status: publish
 featured_image: /_images/3StepstoFinancialSovereignty.jpeg
 ---
 
-<div style="margin-bottom:30px;"></div>
-
 <iframe src="https://player.vimeo.com/video/847739840?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" title="041 Steps to Financial Sovereignty"></iframe>
 
 <div style="margin-bottom:30px;"></div>
