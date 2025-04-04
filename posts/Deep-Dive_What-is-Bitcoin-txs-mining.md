@@ -5,7 +5,7 @@ post_excerpt: So you worked your way through the (L)earn Bitcoin Course but stil
 featured_image: /_images/_Thumbnail_Learn-Bitcoin-Know-Your-Basics.jpeg
 taxonomy:
  category:
-  - tech-deepdive
+  - tech-deepdives
   - bitcoin-basics
   - bitcoin-mining
   
