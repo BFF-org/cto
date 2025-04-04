@@ -1,6 +1,6 @@
 ---
 title: Africa Empowers Bitcoin | Africa Bitcoin Conference 2023
-post_status: draft
+post_status: publish
 post_excerpt: In my keynote I focus on how Africa is empowering Bitcoin and the vital role Bitcoin plays in African countries dealing with inflation and authoritarian governments.
 featured_image: /_images/_Thumb-AfroBitcoin-2023.png
 taxonomy:
