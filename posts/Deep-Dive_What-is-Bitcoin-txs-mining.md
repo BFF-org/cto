@@ -5,8 +5,9 @@ post_excerpt: So you worked your way through the (L)earn Bitcoin Course but stil
 featured_image: /_images/_Thumbnail_Learn-Bitcoin-Know-Your-Basics.jpeg
 taxonomy:
  category:
-  - deep-dive
-  - for-members
+  - tech-deepdive
+  - bitcoin-basics
+  - bitcoin-mining
   
 ---
 
@@ -14,7 +15,7 @@ taxonomy:
 
 <div style="margin-bottom:30px;"></div>
 
-## Excerpt (t)
+## Excerpt
 
 So you worked your way through the (L)earn Bitcoin Course but still you don't understand how transactions work or what Proof of Work mining and a blockchain is. No worries, learning Bitcoin requires going back and forth while deepening single topics. This presentation from the Indonesia Bitcoin Conference 2023 offers a comprehensive introduction to Bitcoin and shows exactly how everything is working together. It is suitable for beginners as well as for those who want to deepen their knowledge. 
 
@@ -26,7 +27,7 @@ So you worked your way through the (L)earn Bitcoin Course but still you don't un
 15:45 What is the Proof-of-Work mining? 
 20:16 What is Bitcoin's fixed supply? 
 21:29 Why are the transaction fees so important? 
-25:05 Closing -
+25:05 Closing 
 
 ## Transcript
 
