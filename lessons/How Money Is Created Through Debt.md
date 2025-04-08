@@ -1,6 +1,7 @@
 ---
 title: How Money Is Created Through Debt
 post_status: publish
+post_excerpt: Now we take a look at how money is being created by loans and debt.
 featured_image: /_images/HowMoneyIsCreatedThroughDebt.jpeg
 ---
 
