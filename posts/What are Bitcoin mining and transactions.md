@@ -1,5 +1,5 @@
 ---
-title: Transactions & Proof-of-Work Mining | Indonesia Bitcoin Conference 2023
+title: Transactions & Proof-of-Work Mining
 post_status: publish
 post_excerpt: How do transactions and Proof of Work mining really work and how does a blockchain look.
 featured_image: /_images/_Thumbnail_Learn-Bitcoin-Know-Your-Basics.jpeg
