@@ -9,9 +9,8 @@ taxonomy:
   - Bitcoin-Mining
 ---
 
-<iframe src="https://player.vimeo.com/video/1033158997?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" title="What Is A Blockchain? Mystery Solved - Understand Bitcoin Mining"></iframe>
 
-<iframe src="https://player.vimeo.com/video/1019654681?badge=0&autopause=0&player_id=0&app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" title="Difference Between Lightning and Bitcoin？"></iframe>
+<iframe src="https://player.vimeo.com/video/1019654681?badge=0&autopause=0&player_id=0&app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" title="Difference Between Lightning and Bitcoin"></iframe>
 
 <div style="margin-bottom:30px;"></div>
 
