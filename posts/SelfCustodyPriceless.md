@@ -1,5 +1,5 @@
 ---
-title: Self-Custody is Priceless and It's Done in Steps: Strategy to Stack Sats
+title: Self-Custody is Priceless and It's Done in Steps - Strategy to Stack Sats
 post_status: publish
 post_excerpt: Unlock the secret to carrying your wealth anywhere in the world with just 12 words.
 featured_image: /_images/SelfCustodyisPricelessItsDoneinStepsStrategytoStackSats.jpg
