@@ -1,5 +1,5 @@
 ---
-title: The Downsides of Exchanges: Safer Options To Acquire Bitcoin
+title: The Downsides of Exchanges - Safer Options To Acquire Bitcoin
 post_status: publish
 post_excerpt: I outline how and where to buy bitcoin safely.
 featured_image: /_images/TheDownsideofExchangesSaferOptionsToAcquireBitcoin.jpg
