@@ -1,5 +1,5 @@
 ---
-title: How Your Money is Secretly Vanishing: The Shocking Truth About Inflation!
+title: How Your Money is Secretly Vanishing - The Shocking Truth About Inflation
 post_status: publish
 post_excerpt: I compare the benefits and drawbacks of cash.
 featured_image: /_images/HowYourMoneyisSecretlyVanishingTheShockingTruethAboutInflation.jpg

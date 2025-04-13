@@ -1,5 +1,5 @@
 ---
-title: Live Demo: Sending Bitcoin with Your Phoenix Wallet
+title: Live Demo - Sending Bitcoin with Your Phoenix Wallet
 post_status: publish
 post_excerpt: I guide you through the process of sending bitcoin with your Phoenix wallet via the Lightning Network.
 featured_image: /_images/LiveDemoSendingBitcoinwithYourPhoenixWallet.jpg
