@@ -1,5 +1,5 @@
 ---
-title: New Currency in Zimbabwe...AGAIN? Exploring the Cantillon Effect & Bitcoin's Potential
+title: New Currency in Zimbabwe...AGAIN? Exploring the Cantillon Effect and Bitcoin's Potential
 post_status: publish
 post_excerpt: I reveal the shocking details behind Zimbabwe's new currency crisis.
 featured_image: /_images/NewCurrencyinZimbabweAGAINExploringtheCantillonEffectBitcoinsPotential.jpg
