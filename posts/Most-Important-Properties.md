@@ -15,7 +15,7 @@ taxonomy:
 
 ## Excerpt
 
-I explain Bitcoin's qualities and its transformative power, showcasing its potential to redefine personal freedom and global inclusion, and enforce human rights. Learn why Bitcoin is a R.I.P.C.O.R.D. (a concept from Andreas M. Antonopoulos).
+I explain Bitcoin's qualities and its transformative power, showcasing its potential to redefine personal freedom and global inclusion, and enforce human rights. Learn why Bitcoin is a R.I.P.C.O.R.D. (a concept by [Andreas M. Antonopoulos](https://aantonop.com)).
 
 ## Transcript
 
