@@ -1,7 +1,7 @@
 ---
 title: Most Important Properties of Bitcoin - R.I.P.C.O.R.D.
 post_status: publish
-post_excerpt: Why is Bitcoin such an important technology and tool? How is it superior to alternative currencies.
+post_excerpt: Why is Bitcoin such an important technology and tool? How is it superior to alternative currencies? A concept by Andreas M. Antonopoulos.
 featured_image: /_images/MostImportantPropertiesofBitcoinRIPCORD.jpg
 taxonomy:
  category:
