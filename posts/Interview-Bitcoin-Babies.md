@@ -1,5 +1,5 @@
 ---
-title: Bitcoin Babies: Uplifting Mothers in Kenya
+title: Bitcoin Babies - Uplifting Mothers in Kenya
 post_status: publish
 post_excerpt: I interview Bitcoin Babies to understand how their initiative is using Bitcoin to make a difference for mothers in Kenya.
 featured_image: /_images/BitcoinBabiesUpliftingMothersinKenya.jpg

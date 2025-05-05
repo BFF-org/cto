@@ -1,5 +1,5 @@
 ---
-title: Living 100% on Bitcoin: A Foster Care Project’s Journey in South Africa
+title: Living 100% on Bitcoin - A Foster Care Project’s Journey in South Africa
 post_status: publish
 post_excerpt: I interview  a foster care project in Mossel Bay, South Africa, that has embraced Bitcoin as a lifeline.
 featured_image: /_images/Living100onBitcoinAFosterCareProjectsJourneyinSouthAfrica.jpg
