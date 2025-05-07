@@ -1,7 +1,7 @@
 ---
-title: The Future is Here - Paying with Bitcoin without Internet
+title: The Future is Here Paying with Bitcoin without Internet
 post_status: publish
-post_excerpt: See how I used my BoltRing to make a bitcoin payment.
+post_excerpt: See how I used my BoltRing to make a bitcoin payment although I didn't have an internet connection.
 featured_image: /_images/Future-Paying-Bitcoin-no-Internet.jpg
 taxonomy:
  category:
