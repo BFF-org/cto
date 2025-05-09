@@ -9,7 +9,7 @@ taxonomy:
   - human-rights
 ---
 
-<iframe src="https://player.vimeo.com/video/1021723485?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" title="Bitcoin &amp; Human Rights: What 99% Are Getting Wrong | Keynote BTC Prague 2024">
+<iframe src="https://player.vimeo.com/video/1021723485?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" title="Bitcoin &amp; Human Rights: What 99% Are Getting Wrong | Keynote BTC Prague 2024"></iframe>
 
 <div style="margin-bottom:30px;"></div>
 

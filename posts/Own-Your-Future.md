@@ -9,7 +9,7 @@ taxonomy:
   - self-custody
 ---
 
-<iframe src="https://player.vimeo.com/video/1021727843?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" title="Own Your Future - Self-Sovereignty Through Ownership | Keynote Adopting Bitcoin Cape Town 2024">
+<iframe src="https://player.vimeo.com/video/1021727843?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" title="Own Your Future - Self-Sovereignty Through Ownership | Keynote Adopting Bitcoin Cape Town 2024"></iframe>
 
 <div style="margin-bottom:30px;"></div>
 
