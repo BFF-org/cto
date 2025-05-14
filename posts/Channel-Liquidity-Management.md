@@ -10,7 +10,7 @@ taxonomy:
   - lightning-network
 ---
 
-<iframe src="https://player.vimeo.com/video/1021755965?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Phoenix Wallet: How To Manage Your Channel And Liquidity?"></iframe>
+<iframe src="https://player.vimeo.com/video/1021755965?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" title="Phoenix Wallet: How To Manage Your Channel And Liquidity?"></iframe>
 
 <div style="margin-bottom:30px;"></div>
 
