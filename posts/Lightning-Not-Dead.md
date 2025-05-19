@@ -6,6 +6,7 @@ featured_image: /_images/TheLightningNetworkisNotDead.jpg
 taxonomy:
  category:
   - lightning-network
+  - bitcoin-basics
 ---
 
 <iframe src="https://player.vimeo.com/video/1019657840?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" title="The Lightning Network Is Not Dead"></iframe>
