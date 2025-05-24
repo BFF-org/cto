@@ -19,4 +19,61 @@ Explore the [AQUA Wallet](https://aquawallet.io/) with me – a self-custodial w
 
 ## Transcript
 
-Will you be supporting AQUA Bitcoin wallet? I'm somewhat confused by AQUA. Is it a Blockstream or a JAN3 product? Yeah, I've been waiting for AQUA several months as I was looking for it as an alternative when the BlueWallet deprecated its Lightning accounts in April 2023. And it seems that they worked towards a great date for it to launch because the wallet was released this week on Bitcoin's 15th birthday, on January 3rd in 2024. And January 3rd is the day in which in 2009, the first public block of Bitcoin was mined. And it's also the name of the company that is issuing or developing the AQUA wallet. What is Aqua? It's a self-custodial wallet that was originally developed by Blockstream. And at that time, a guy called Samson Mow was working for Blockstream. And when he left Blockstream to found his own company JAN3, he seems to have taken AQUA with him. It's not a Blockstream project anymore. It's a JAN3 project. However you say that name, I don't know. And a handful of people have already tested it, and I will include it into my Lightning wallet test that I'm conducting here in Zimbabwe at the moment. But from what I've learned so far, AQUA supports transactions in USDT, which is Tether, which runs also on Liquid. So it also supports Liquid, of course Bitcoin, Lightning, and other Liquid assets, because Liquid is a technology where you can even issue your own tokens. So there are other assets also running on Liquid. AQUA can be a great tool, I believe, for people who are interested in using stable coins like Tether, which the majority of people, for instance, as I have learned in Zimbabwe, are doing when they are using cryptocurrencies, because they know the value of the US dollar and it's very stable compared to their own currencies. And that's why a lot of people are using it. And for that, AQUA might be a great wallet because then you can use all assets like Bitcoin, Liquid, Lightning and Tether in one wallet. And AQUA is technically not a Lightning wallet. You can send and receive all assets, also Lightning, but there is no Lightning node within the wallet as you have it in Phoenix, Zeus, Green, or Mutiny. And as I mentioned before, you can use Boltz.exchange or SideSwap to swap between Liquid, Lightning and Bitcoin. And you don't have to do that with AQUA because AQUA includes, it has basically the Boltz.exchange built within its wallet in the background. And every Lightning payment is basically a Liquid payment that is instantly swapped to Lightning. That means that Lightning payments with AQUA will be a little bit more expensive than Lightning payments if you already have an open channel, as you need to pay for the Liquid transaction fees. So if you have an open Lightning channel already, then I guess paying with Lightning over a wallet like Phoenix or Mutiny might be less costly than using the AQUA wallet for your Lightning payments. In general, Liquid transaction fees are much lower than Bitcoin transaction fees. They cost much less, but on the other hand, they are a little bit higher than Lightning payments. So there are really a lot of trade offs and a lot of different features in all the wallets that are existing. It's very difficult to recommend one specific wallet as there is no best solution for a person because that's actually the first question you need to ask yourself or someone else. If you're an educator, what is the goal that this person wants to achieve with the wallet? That's much more important than exactly knowing all the features, the details of a wallet, and knowing what's going on in the background, because it will definitely depend on your use case and your goals, what your optimal wallet is. And I hope to produce content, a test, that is giving you a great overview over the different wallets, Lightning wallets I mentioned before.
+### AQUA Wallet: Overview and Background
+
+**Will you be supporting AQUA Bitcoin wallet?**
+I'm somewhat confused by AQUA. Is it a Blockstream or a JAN3 product?
+
+Yeah, I've been waiting for AQUA for several months. I was looking for it as an alternative when BlueWallet deprecated its Lightning accounts in April 2023. It seems they timed the launch quite meaningfully—the wallet was released on **Bitcoin's 15th birthday**, January 3rd, 2024.
+
+January 3rd is the date when, in 2009, **Bitcoin’s first public block was mined**. It’s also the name of the company now developing AQUA—**JAN3**.
+
+### From Blockstream to JAN3
+
+What is AQUA? It’s a **self-custodial wallet** originally developed by Blockstream. At the time, **Samson Mow** was working for Blockstream. When he left to found **JAN3**, it appears he took AQUA with him. So, AQUA is **no longer a Blockstream project**—it's now a **JAN3 product**.
+
+A handful of people have already tested it. I'm currently including AQUA in my **Lightning wallet test in Zimbabwe**.
+
+### Supported Assets and Technologies
+
+From what I’ve learned so far, AQUA supports transactions in **USDT (Tether)**, which runs on the **Liquid Network**. So AQUA supports:
+
+* **Bitcoin**
+* **Liquid**
+* **Lightning**
+* **Other Liquid assets** (users can issue their own tokens)
+
+This makes AQUA potentially very useful for people who use **stablecoins**, especially in countries like Zimbabwe, where many prefer the **US dollar's stability** over their local currency.
+
+### One Wallet for Multiple Assets
+
+AQUA allows you to use **Bitcoin, Liquid, Lightning, and Tether**—all in one wallet.
+
+However, AQUA is **not a native Lightning wallet**. You can send and receive Lightning payments, but there’s **no built-in Lightning node**, unlike Phoenix, Zeus, Green, or Mutiny.
+
+### How AQUA Handles Lightning
+
+AQUA integrates with **Boltz.exchange** in the background. Every Lightning payment is essentially a **Liquid payment swapped to Lightning**, automatically. So you don’t need to manually use Boltz or SideSwap—**it’s built-in**.
+
+But this means that:
+
+* **Lightning payments on AQUA are a bit more expensive**, due to the Liquid transaction fees.
+* If you already have an open Lightning channel, **Phoenix or Mutiny** might be cheaper to use for Lightning payments.
+
+### Fees: Liquid vs Lightning vs Bitcoin
+
+* **Liquid fees** are much lower than Bitcoin transaction fees.
+* **Lightning fees** are generally even lower than Liquid.
+* So depending on your setup, **costs can vary**.
+
+### Wallet Recommendations Depend on Goals
+
+There’s a wide variety of wallets and features, and **there’s no single best wallet**. Choosing the right one depends entirely on your **use case and goals**.
+
+If you're an educator or helping someone choose a wallet, the first question should be:
+
+> **What is the goal this person wants to achieve with the wallet?**
+
+That matters more than knowing every technical detail.
+
+I hope to produce content and tests that give a clear overview of the different Lightning wallets I mentioned before.
