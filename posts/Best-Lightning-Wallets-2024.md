@@ -17,7 +17,10 @@ taxonomy:
 
 ## Excerpt
 
-Exploring Bitcoin ownership in rural areas with a focus on self-custody Lightning wallets. I ventured 40km from the capital of Zimbabwe to test Blixt, Green, Mutiny, Phoenix, Zeus, and Wallet of Satoshi. Discover how I opened channels, managed transactions, and evaluated costs across different wallets, finding the best options for bitcoin ownership in remote areas. Watch to see the results and to understand why self-custody is crucial for true ownership and how it fares in less urban settings. (Test conducted in January 2024)
+Exploring Bitcoin ownership in rural areas with a focus on self-custody Lightning wallets. I ventured 40km from the capital of Zimbabwe to test Blixt, Green, Mutiny, Phoenix, Zeus, and Wallet of Satoshi. Discover how I opened channels, managed transactions, and evaluated costs across different wallets, finding the best options for bitcoin ownership in remote areas. Watch to see the results and to understand why self-custody is crucial for true ownership and how it fares in less urban settings. 
+
+This test was conducted in January 2024 - since then Mutiny wallet has been shut down, other wallets had updates and new wallets entered the space.
+
 
 ## Transcript
 
