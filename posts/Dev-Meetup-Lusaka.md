@@ -1,7 +1,7 @@
 ---
 title: Dev Meetup Lusaka 2025 | Anita Posch and Bitcoin For Fairness
 post_status: publish
-post_excerpt: I spoke at the Dev Meetup in Lusaka about how developers can shape Bitcoin's future.
+post_excerpt: I spoke at the founding event of the Bitcoins Devs Lusaka about why Bitcoin matters for financial fairness and how developers can shape its future, especially in Africa.
 featured_image: /_images/DevMeetupLusaka2025.jpg
 taxonomy:
  category:
@@ -14,7 +14,7 @@ taxonomy:
 
 ## Excerpt
 
-I spoke at the Dev Meetup in Lusaka about why Bitcoin matters for financial fairness and how developers can shape its future, especially in Africa. I shared stories, tools, and opportunities for learning and earning with Bitcoin. Watch now and take your first step into Bitcoin development today!
+I spoke at the founding event of the Bitcoins Devs Lusaka about why Bitcoin matters for financial fairness and how developers can shape its future, especially in Africa. I shared stories, tools, and opportunities for learning and earning with Bitcoin. Watch now and take your first step into Bitcoin development today!
 
 ## Transcript
 
