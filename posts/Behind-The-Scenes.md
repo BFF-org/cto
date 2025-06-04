@@ -19,4 +19,55 @@ I take you behind the scenes of organizing Bitcoin education in Zambia and Zimba
 
 ## Transcript
 
-There's a lot to say and there is a lot to be done organizing educational events, especially if you're totally new to a country. So first, I always have to identify the people on the ground who are at least a little bit aligned with the message I have, like doing Bitcoin-only education. And these people also have to have the time to support the work, and most importantly, I need to find out if I can trust people before I can even start with sharing knowledge. Building relationships is very, very important, and finding out if you can trust someone is a long process. The next step then is to find and address those who might be interested in learning about Bitcoin because local Bitcoiners in these areas are not very easy to find but are needed to build sustainable structures on the ground. So if I don't find at least one person who I can trust on the ground, then it doesn't really make sense to give a talk or do a workshop because I think it's important that people have someone there where they can go to ask questions. That's why I'm so happy that we now have Bitcoin for Fairness Zambia, an independent initiative, and they're doing monthly meetups where people can come and ask questions. On WhatsApp, I think the group has now grown to 100 people already. Another thing which is very time-consuming is meeting and getting acquainted with the people around, the area, and the local customs. Organizing an event itself, finding a place, is not that easy. For instance, in Zimbabwe, I need to make sure that it's a safe environment where I can talk about Bitcoin with people because authorities are here and there cracking down on people who are outspoken about their use of cryptocurrency. In Zambia, everything is a little bit easier because Bitcoin is more regulated there, which in that sense is a good thing, as there are KYC exchanges and people feel safe to use cryptocurrencies that way. Although I always tell people not to use KYC exchanges, this seems like a contradiction, but it isn't actually, because what I want to say is using cryptocurrencies in Zambia feels more secure because the government is not publicly saying you're not allowed to use it or you shouldn't use it. In Zimbabwe, the last thing I have learned or know is that they like or embrace blockchain, but the government doesn't want to have Bitcoin around, so there are no exchanges in Zimbabwe. You need to find a money trader, and there are a lot of them because people need to exchange Zimbabwe dollars to US dollars anyway, and the same people are also able to exchange Bitcoin for you. This is true, I think, for many African countries. It's hard to find reliable, trusted exchanges, but there are money changers, people who will exchange your Bitcoin to local currency and the other way around. In Zimbabwe, for instance, another obstacle is the international sanctions, which cut the population off from exchanges and many other avenues, like international payments. Nobody, for instance, is using credit cards in Zimbabwe, so it's difficult to obtain Bitcoin there. Sometimes the local money exchangers can ask for up to a 20% of fee for their service because there is not enough competition yet. Whenever I get the chance, I tell people to try to receive bitcoin from their families abroad so that they send it to them, and then they can exchange it to local currency on the ground. Besides the educational part, which I'm doing either through talks or workshops or doing interviews, radio interviews, podcast interviews, a high amount of time actually is is goes into dealing with electricity problems and obtaining drinking water, as the borehole in the house I lived in in Harare wasn't safe, so you couldn't drink it. Very unstable, slow, and expensive internet connections are actually a big problem in Zimbabwe too. Now there is Starlink, but I think it's still too expensive for the majority of the people, but it's an opportunity to receive internet and use the internet. In Zimbabwe and South Africa. Speaking of electricity problems, depending on the area you live in, you sometimes have daily load shedding. Load shedding is when the electricity is being turned off for households when it's needed for the industry, so the industry has priority. The last time when I was in Harare in 2023, we didn't have any electricity between early morning and evening, sometimes late evening, and there is no information about that, so you never know when the power will go off and when it will come back. In South Africa, it's similar, but at least people there get information via text. The authorities tell people, "Okay, today and tomorrow the power will go off at 2 p.m. and it will come back at 4 p.m. and then we'll turn it off at 3 a.m. again until 6 a.m.". In these times, you need to organize everything that needs electricity, like laundry, cooking, accessing the internet, and recharging your devices. I was living in a house with solar panels, so at least we had power during the day, but you always have to save electricity because the panels or the batteries we had were not big enough to store all the electricity we needed for 24 hours. For instance, when we want to do our laundry, it's always like a game, you know, like will the power stay on or not, because our batteries are not strong enough so that we can use the washing machine. There's a lot of organizational things going on in dealing with your life in Zimbabwe, which takes a lot of time from time that you actually want to work or need to work or maybe have some spare time and rest. I had to stop releasing podcast episodes for my podcast show because of the electricity problems and the weak internet. Also, thinking about it, I realized how disempowering a weak internet connection is because you basically can't be a part of new developments online. You can't podcast, be a podcaster yourself, if you don't have the money or you don't live in an urban area that you can afford a high-functioning internet connection, and that's actually a big disadvantage for people in the global South in the global marketplace, in the global digital marketplace. So yeah, that's basically a lot of the things I'm doing when I'm in Zimbabwe or Zambia. I'm looking forward to going back there again. 
+### Starting from Scratch in a New Country
+
+There's a lot to say and a lot to be done when organizing educational events, especially if you're totally new to a country. First, I always have to identify people on the ground who are at least somewhat aligned with the message I have—like doing Bitcoin-only education. These people also need to have time to support the work. Most importantly, I need to find out if I can trust them before I even begin sharing knowledge.
+
+Building relationships is very important, and finding out if you can trust someone is a long process.
+
+### Building Local Infrastructure
+
+The next step is to find and reach those who might be interested in learning about Bitcoin. Local Bitcoiners in many of these areas aren't easy to find, but they are crucial to building sustainable structures. If I can't find at least one trustworthy person on the ground, then it doesn’t really make sense to give a talk or host a workshop. It’s important for people to have someone locally they can go to with questions.
+
+That’s why I’m so happy we now have Bitcoin for Fairness Zambia, an independent initiative. They’re hosting monthly meetups where people can come and ask questions. On WhatsApp, the group has already grown to around 100 people.
+
+### Adapting to Local Conditions
+
+Another time-consuming part of this work is getting acquainted with the people, the area, and the local customs. Even just organizing an event and finding a suitable venue isn't easy.
+
+For example, in Zimbabwe, I need to ensure it's a safe environment to talk about Bitcoin. Authorities sometimes crack down on people openly using or advocating for cryptocurrency. In contrast, things are easier in Zambia. Bitcoin is more regulated there, which helps people feel safer using it—even though I always advise against using KYC exchanges.
+
+That might sound contradictory, but it’s not. What I mean is that people in Zambia don’t have to fear open use of cryptocurrencies, as the government isn’t actively discouraging it.
+
+### Navigating Bitcoin Access in Zimbabwe
+
+In Zimbabwe, the government may talk positively about blockchain, but not about Bitcoin. There are no legal exchanges. People must use money traders—who are already part of the informal economy exchanging Zimbabwe dollars to USD—to trade Bitcoin as well.
+
+This is true in many African countries: trusted, reliable exchanges are hard to find, but informal money changers will help you convert Bitcoin to local currency and vice versa. Due to limited competition, they can charge up to 20% in fees.
+
+Whenever I get the chance, I advise people to receive Bitcoin from family members abroad and then exchange it locally.
+
+### Infrastructure Challenges
+
+Beyond education—via talks, workshops, or interviews—a lot of my time is spent simply coping with basic infrastructure issues.
+
+In Harare, the borehole water in the house I stayed in wasn’t safe to drink. Electricity and internet are also major challenges. The internet is unstable, slow, and expensive. While Starlink is now available, it's still too costly for most people.
+
+Electricity is another big issue. In Zimbabwe, we often had daily load shedding without warning. When I was in Harare in 2023, we had no power from early morning until late evening, and there was no notice about when it would be turned off or restored.
+Comparing with South Africa
+
+In South Africa, the situation is slightly better because people at least get SMS updates about scheduled load shedding: for example, "The power will be off from 2 p.m. to 4 p.m. and again from 3 a.m. to 6 a.m."
+
+During these windows, you must organize all your electricity-dependent activities—laundry, cooking, internet, charging devices.
+
+I lived in a house with solar panels, so we had some power during the day, but we still had to conserve. Our batteries weren’t strong enough to power appliances like a washing machine, so doing laundry became a gamble—would the power last?
+
+### Impact on Work and Connectivity
+
+Living in Zimbabwe means constantly managing your day-to-day life, and that eats into time you'd rather spend working—or resting.
+
+Due to electricity and internet issues, I had to stop releasing podcast episodes. It made me realize how disempowering a weak internet connection can be. Without reliable access, you’re cut off from participating in the global digital marketplace. You can’t create or share content, follow new developments, or run a podcast unless you’re in a well-connected urban area and can afford high costs.
+
+This is a serious disadvantage for people in the Global South.
+
+So yeah, that’s a lot of what I’m doing when I’m in Zimbabwe or Zambia. I’m really looking forward to going back again.
