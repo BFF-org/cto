@@ -99,5 +99,5 @@ It's not totally self-custody like with Bitcoin because Liquid is a federation-b
 
 ### Learn More About Liquid, Lightning, and Bitcoin
 
-If you want to know more about Liquid, I have a video, a non-technical explainer of Bitcoin, Lightning, Liquid, and eCash on [YouTube](https://my.cracktheorange.com/lightning-network/explainer-bitcoin-lightning-liquid-ecash/), and also in my talk at Adopting Bitcoin in Cape Town. The talk is called [Own Your Future](https://www.youtube.com/watch?v=TSkEpcalmyQ). I'm talking about possibilities to use Bitcoin, Liquid, and Lightning together and what these things are and how they relate to each other.*
+If you want to know more about Liquid, I have a video, a non-technical explainer of Bitcoin, Lightning, Liquid, and eCash on [YouTube](https://www.youtube.com/watch?v=3E12dUnYh90), and also in my talk at Adopting Bitcoin in Cape Town. The talk is called [Own Your Future](https://www.youtube.com/watch?v=TSkEpcalmyQ). I'm talking about possibilities to use Bitcoin, Liquid, and Lightning together and what these things are and how they relate to each other.*
 
