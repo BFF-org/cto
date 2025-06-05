@@ -36,7 +36,7 @@ Yeah, start with a custodial wallet. I never thought I would say that in my life
 
 Start with [Wallet of Satoshi](https://www.walletofsatoshi.com/) or [Alby](https://getalby.com/), but be aware: You could be rug pulled.
 
-Stack around 100,000 satoshis in that custodial wallet and then open a channel on Phoenix or [Mutiny Wallet](https://mutinywallet.com/).
+Stack around 100,000 satoshis in that custodial wallet and then open a channel on Phoenix or Mutiny Wallet.
 
 Then you might say:
 “But that’s too much for me. I don't want to have that on Lightning, that's too insecure for me.”
