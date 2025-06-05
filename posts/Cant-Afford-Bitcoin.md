@@ -19,4 +19,31 @@ Unlock the secret to carrying your wealth anywhere in the world with just 12 wor
 
 ## Transcript
 
-For my believe self-custody is priceless. With the Phoenix wallet and other wallets it might have a n my view self-custody is priceless. With the Phoenix wallet and other wallets it might have a little bit of a add-on in terms of payment fees because Phoenix asks 0.4% for every payment you do but it gives you ownership, it gives you the possibilities to be independent and self-sovereign, to go anywhere in the world with your money. You can cross borders only having those 12 words in your head and you can move your wealth with you, if you have to or want to. You can't do that with your house or your car or whatever, also definitely not with your money in your bank account. And it can be done and it has to be done in the future in steps, because as I said before not everyone will be able in the future, in 10-20 years, to own a UTXO, basically bitcoin on-chain. So there will be shades of grey or shades of orange in terms of custody, but self-custody is the prime goal and it has to stay that way. Also, I hope for the development community that this is their first focus now. My recommendation for someone who says:  "Okay I can't afford, let's say $10 of transaction fees on-chain, what do I do?" Yeah, start with a custodial wallet. I never thought I would say that in my life but now I have to say it. Paco knows what I'm talking about. Start with Wallet of Satoshi or Alby but be aware: You could be rug pulled. Stack around 100,000 satoshis in that custodial wallet and then open a channel on Phoenix or Mutiny. Then you might say but that's too much for me, I don't want to have that on Lightning, that's too insecure for me. Then, I would say, I trust the Liquid Federation, swap 80,000 sats to Liquid or maybe if you can afford swap it to bitcoin on-chain and then the result is, you have a payment channel in your wallet, where you can receive 80,000 satoshis and you can send 20,000 and if your goal is to earn Lightning for gaming or whatever then, whenever the channel is full, you put it in cold storage. You put it either on Liquid or on the Bitcoin blockchain. 
+For my belief, self-custody is priceless.
+
+With the [Phoenix Wallet](https://phoenix.acinq.co/) and other wallets, it might have a little bit of an add-on in terms of payment fees, because Phoenix asks 0.4% for every payment you do. But it gives you ownership, it gives you the possibilities to be independent and self-sovereign, to go anywhere in the world with your money.
+
+You can cross borders only having those 12 words in your head and you can move your wealth with you—if you have to or want to. You can't do that with your house or your car or whatever, and definitely not with your money in your bank account.
+
+And it can be done—and it has to be done in the future—in steps. Because as I said before, not everyone will be able, in the future, in 10–20 years, to own a [UTXO](https://www.youtube.com/watch?v=whfUJw1Usko)—basically, Bitcoin on-chain. So there will be shades of grey (or shades of orange) in terms of custody. But self-custody is the prime goal, and it has to stay that way.
+
+Also, I hope for the development community that this is their first focus now.
+
+My recommendation for someone who says:
+“Okay, I can't afford—let's say—\$10 of transaction fees on-chain, what do I do?”
+
+Yeah, start with a custodial wallet. I never thought I would say that in my life, but now I have to say it. Paco knows what I'm talking about.
+
+Start with [Wallet of Satoshi](https://www.walletofsatoshi.com/) or [Alby](https://getalby.com/), but be aware: You could be rug pulled.
+
+Stack around 100,000 satoshis in that custodial wallet and then open a channel on Phoenix or [Mutiny Wallet](https://mutinywallet.com/).
+
+Then you might say:
+“But that’s too much for me. I don't want to have that on Lightning, that's too insecure for me.”
+
+Then I would say, I trust the [Liquid](https://www.youtube.com/watch?v=3E12dUnYh90) Federation. Swap 80,000 sats to Liquid, or maybe if you can afford, swap it to bitcoin on-chain.
+
+And then the result is:
+You have a payment channel in your wallet, where you can receive 80,000 satoshis and you can send 20,000.
+
+And if your goal is to earn Lightning (for gaming or whatever), then whenever the channel is full, you put it in cold storage—you put it either on Liquid or on the Bitcoin blockchain.
