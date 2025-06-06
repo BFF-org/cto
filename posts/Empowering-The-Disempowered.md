@@ -18,4 +18,12 @@ I explain how Bitcoin can be a powerful tool to empower the disempowered. Join m
 
 ## Transcript
 
-It was from the beginning when I re-entered the Bitcoin space in 2017 with the finding that it really is a tool to empower all people, especially those who are disempowered. So from then on, I always had this focus on human rights. From my learnings from Andreas M. Antonopoulos, I realized that it's really much more important to educate people in the Global South about Bitcoin than here in Europe. Because in Austria, where I lived, I was experiencing always this, "Yeah, so why do I need it? You know, I mean, I have a bank account. My currency works decently enough," you know? I mean, not talking about inflation. So, I felt the idea that Bitcoin is just a tool for speculation and investment rather boring. And I realized that, I mean, I didn't realize that the world is not fair through Bitcoin; I realized that much earlier on. And I thought I could contribute a good part to better that, yeah, to change it. I mean, we all strive to change the world to make it a little bit better. I found also my Ikigai in Bitcoin. I was always looking for what is really the topic that I want to - my mission, in a way, in life - to do something good for the world also and not only consume, you know.
+### Discovering Bitcoin's Deeper Purpose
+
+It was from the beginning when I re-entered the Bitcoin space in 2017 with the finding that it really is a tool to empower all people, especially those who are disempowered. So from then on, I always had this focus on human rights.
+
+From my learnings from [Andreas M. Antonopoulos](https://aantonop.com/), I realized that it's really much more important to educate people in the Global South about Bitcoin than here in Europe. Because in Austria, where I lived, I was experiencing always this, "Yeah, so why do I need it? You know, I mean, I have a bank account. My currency works decently enough," you know? I mean, not talking about inflation.
+
+So, I felt the idea that Bitcoin is just a tool for speculation and investment rather boring. And I realized that, I mean, I didn't realize that the world is not fair through Bitcoin; I realized that much earlier on. And I thought I could contribute a good part to better that, yeah, to change it. I mean, we all strive to change the world to make it a little bit better.
+
+I found also my [Ikigai](https://en.wikipedia.org/wiki/Ikigai) in Bitcoin. I was always looking for what is really the topic that I want to — my mission, in a way, in life — to do something good for the world also and not only consume, you know.
