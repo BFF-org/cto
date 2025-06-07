@@ -44,5 +44,5 @@ But the problem with auto DCA is that many people have been doing this with smal
 
 ### Recommendation: Higher DCA Amounts or Use Lightning
 
-So if you want to start doing auto DCA use only amounts higher, I would say 300,000 sats for instance. If you can't afford that I suggest you start with stacking sats in Lightning or Liquid because the fees are much lower there.
+So if you want to start doing auto DCA use only amounts higher, I would say 300,000 sats for instance. If you can't afford that I suggest you start with stacking sats in [Lightning or Liquid](https://www.youtube.com/watch?v=3E12dUnYh90) because the fees are much lower there.
 
