@@ -24,7 +24,7 @@ I discuss if you can securely share your Phoenix wallet's extended public key (X
 
 "There is an extended public key on my device in the Phoenix wallet. Is it safe to share it with the exchange for DCA so they send every month the sats to a new Bitcoin address?" 
 
-As I just mentioned the Phoenix wallet is Lightning only. It does not offer an on-chain wallet and it also doesn't show an on-chain balance. The master public key that you're speaking of that you found in the wallet info is only used for the final wallet, meaning in case your Lightning channel gets closed which can happen sometimes, then your funds are being sent to this master public key, to this Bitcoin address automatically.
+As I just mentioned [the Phoenix wallet](https://phoenix.acinq.co/) is Lightning only. It does not offer an on-chain wallet and it also doesn't show an on-chain balance. The master public key that you're speaking of that you found in the wallet info is only used for the final wallet, meaning in case your Lightning channel gets closed which can happen sometimes, then your funds are being sent to this master public key, to this Bitcoin address automatically.
 
 ### Why Not Use Master Public Key for DCA
 
