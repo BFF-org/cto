@@ -21,7 +21,7 @@ I share my journey from becoming a digital nomad to bringing Bitcoin education t
 
 ## Transcript
 
-### Opening & Personal Journey
+### Personal Journey
 
 Hello! What a great conference! Thank you very much for coming, thank you for organizing that one and thank you all each one of you for coming because I believe that each one of you has the power to change the world.
 
