@@ -20,9 +20,11 @@ I met Jodom, the founder of BITSACCO, to learn how he’s combining Kenya's trad
 ## Transcript
 
 **Q: Where are we heading now?**
+
 **A:** We are on the way to the center of Nairobi to meet Jodom, the co-founder of BITSACCO. BITSACCO is basically a community banking organization, and he is building one running on Bitcoin. We're going to town now to meet him and to see how this is working.
 
 **Q: Okay, Jodom, you founded BITSACCO. Can you please explain what it is? Maybe you start with what is a SACCO because I have seen a lot of buses that are called SACCO.**
+
 **A:** Yeah, that's a very good observation. So SACCO is a model of banking where you have members come together. Essentially, they run a community bank. So this is the equivalent in different places in Africa and other places where the members of the bank themselves own the bank, compared to regular banks where you have shareholders and a board. So that's a clear difference. Now, you see SACCO here. They're formed for a very specific purpose. The example you gave is buses. We call them matatu SACCO, where matatus is like “public transport”. Members would come together, and they'll have a mission like, "We're going to buy a number of buses; we're going to operate them." That is our main business as a SACCO, right. BITSACCO is the same way, but the mandate, the mission of the SACCO, of the community bank, is to help the members of the community hold, access, and use Bitcoin.
 
 **Q: SACCO has a long tradition here, doesn't it? Like also with regular money.**
