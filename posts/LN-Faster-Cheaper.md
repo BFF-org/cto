@@ -31,5 +31,5 @@ When I used it for the first time in January 2019, I believe, a lot of payments 
 
 The Lightning Network is a true layer 2 network. You can swap in and out of the Lightning Network without the need for an intermediary. The sats in your self-custodial Lightning wallet are basically the same as the sats on the Bitcoin blockchain.
 
-On the Lightning Network, I have some great explainer videos about the Lightning Network and the Phoenix wallet in a playlist on my [YouTube channel](https://www.youtube.com/@anitaposch). The playlist is called ["Lightning Wallets and Tutorials"](https://www.youtube.com/playlist?list=PL6Y2wVZCXnmZlj2oCSqYwAyMjQgeUm9Pb). Go and look that up.
+On the Lightning Network, I have some great explainer videos about the Lightning Network and the Phoenix wallet in a playlist on my [YouTube channel](https://www.youtube.com/@anitaposch). The playlist is called ["Lightning Wallets and Tutorials"](https://www.youtube.com/watch?v=chSktrFRN6E&list=PL2zepPkogWouBGH7lRWCOgcSydJkN833x). Go and look that up.
 
