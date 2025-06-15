@@ -19,10 +19,6 @@ I explain how the Lightning Network with its channels speeds up Bitcoin transact
 
 ## Transcript
 
-Here is the transcript with external links included and all **bold formatting removed**:
-
----
-
 The Lightning Network. To explain that, I want to talk about the Bitcoin blockchain first. We call the Bitcoin blockchain the base layer; its transactions are called on-chain transactions. They need at least 10 minutes to be settled, and they can incur quite high fees when the blockchain is congested, so when a lot of people at the same time want to send bitcoin. Which is also why you would not use it for micro-transactions or small payments.
 
 The reason for this is that the focus of Bitcoin is to be as decentralized as possible. Because of this, there are some technological limitations that limit the maximum number of transactions in each block to around 6,000. At the moment, I have seen some blocks with a little bit more than 6,000 transactions in it. So, if you calculate that in 24 hours, the Bitcoin blockchain can process around 864,000 transactions, and that is not enough for 8 billion people who might want to use Bitcoin.
