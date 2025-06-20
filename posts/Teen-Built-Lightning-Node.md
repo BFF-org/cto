@@ -80,7 +80,7 @@ A: Yes. I have also been having online classes with Jason. He is from the US, in
 
 **Q: What kind of classes?**
 
-A: We were reading the [Bitcoin White Paper](https://bitcoin.org/bitcoin.pdf). Every Tuesday, we have sessions—kind of like a book club.
+A: We were reading the [Bitcoin White Paper](https://bitcoin.org/en/bitcoin-paper). Every Tuesday, we have sessions—kind of like a book club.
 
 **Q: So I assume, since you set up the node yourself, you really like this kind of work. What were you doing before you got into Bitcoin?**
 
