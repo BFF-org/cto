@@ -6,7 +6,6 @@ featured_image: /_images/HowTribalismToxicityTurnPeopleAwayFromBitcoinDiscussion
 taxonomy:
  category:
   - community-stories
-  - nostr
 ---
 
 <iframe src="https://player.vimeo.com/video/1059227276?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" title="How Tribalism And Toxicity Turn People Away From Bitcoin - Discussion with Meron Estefanos"></iframe>
