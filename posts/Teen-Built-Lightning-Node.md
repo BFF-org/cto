@@ -21,4 +21,82 @@ Do you want to support Bongani on his journey? Send him some sats—I bet it’l
 
 ## Transcript
 
-Hello, nice to meet you. Slooh told me that you were the one who set up the Lightning node. Yes. Is that true? True. Can you show me that one? In there. This one? And that's now a Lightning node? A full node. It’s a full node. what is on there? You are using? A BTC Pay Server. Mhm. And how did you learn all of that? We were doing online meetups with Open Arms. Ah, okay, that's super great. And how long did you have to learn to know how to do it? Approximately, I think it was five to six months. Uh-huh. Yeah. But you are really interested in it, hey? Very much. So much. Is this going to be your job in the future? Maybe, I think so, yeah. Do you like it? Yeah, I like it so much. Computer science, everything in computers-I love it. Super! What are your goals? I mean, you are also using Bitcoin yourself, I assume, but you're going to school? Yeah. How old are you? I'm 16, turning 17. You're turning 17? Okay, super. And when did you start learning about Bitcoin? When? In October. Only in October? No, no, October 2021. Ah, 2021. Oh, wow! So you've been into it for almost four years? Yes. Super. And so you learned a lot? And I've been having online classes with Jason. He's from the US, in Ohio. Uh-huh. I've been reading the book... I don't know, is it the Bitcoin White Paper? Mhm. Yeah, I've been reading that book, and on Tuesdays weekly. Ah, it's a book club, something like that? Mhm. So, and I assume, since you set that up yourself, you really like that kind of work? And what did you do before? I mean, you went to school, and then? Without Bitcoin, I mean. Oh, without Bitcoin? Without-just sitting in the house, like playing with other children when I was young, like 10 or 11. Then I started the surfer Kids in May 2019. Mhm. I think I was in grade five. Yeah, I was young. I was playing. I didn't know Bitcoin, and I didn't know that Bitcoin existed in Surfer Kids. So I was just going to school, coming back, doing my homework, and that was it. Mhm. And when did you then decide, or how did you know that you liked this? Before this, my friend introduced me to surfer Kids. So I was interested. I love to be there. So I went there and said, "I want to join you. I want to learn how to surf, all of that." So it became a thing for me. But I didn't like... I was struggling to surf, and it was hard to adapt, to try and surf. So that's when I first met Christo, and that's when he first introduced me to Bitcoin. And that's where I learned about Bitcoin. Yeah, I know, because I was in that class once, three years ago. We were there when Christo was teaching, and we saw how you learned with all of the Satoshis, and you made Lightning torches. So you passed Lightning around? Mhm. And there you got into contact with it, and there you learned about Bitcoin for the first time? Yeah, that was my first time. And then, what did you like about it? About it? Like about science, like how did Satoshi made it. It was so interesting-like, how did he make it? Like, what is Bitcoin? Like, you see when you are amazed by something that you don't know? I was interested in that. So I wanted to know how Bitcoin works, the Bitcoin network. Mhm. Around the world. You just wanted to know how it works? You not only wanted to use it, you wanted to understand it? Yes. Super great, I love it. Yeah. And what are your plans for the next years? For yourself? For myself, I want to go to the university of technology. I want to study and become a computer scientist, an IT specialist. Then I'm going to start investing in Bitcoin, saving Bitcoin. Then I'm going to buy a house and a car. Okay, sure. Using Bitcoin? Mhm. So I'm just going to take it step by step. And I think with your experience already at that young age, you're going to be a great Bitcoin or Lightning developer. Yes. Yes, very much. Super! Thank you. Thank you so much.
+**Q: Hello, nice to meet you. Slooh told me that you were the one who set up the Lightning node. Is that true?**
+A: Yes, that is true.
+
+**Q: Can you show me the node?**
+A: In there.
+*(points to the device)*
+
+**Q: This one? And that is now a Lightning node?**
+A: It is a full node.
+
+**Q: What is running on there?**
+A: A [BTCPay Server](https://btcpayserver.org/).
+
+**Q: How did you learn to set that up?**
+A: We were doing online meetups with Open Arms, who was helping us learn.
+
+**Q: That is super great. How long did it take you to learn all of that?**
+A: Approximately five to six months.
+
+**Q: You must really be interested in it, hey?**
+A: Very much. So much.
+
+**Q: Do you think this is going to be your job in the future?**
+A: Maybe. I think so, yeah.
+
+**Q: Do you like it?**
+A: Yes, I like it so much. I love computer science and everything about computers.
+
+**Q: What are your goals? I assume you are using Bitcoin yourself, but are you also still in school?**
+A: Yeah.
+
+**Q: How old are you?**
+A: I am 16, turning 17.
+
+**Q: And when did you start learning about Bitcoin?**
+A: In October 2021.
+
+**Q: Oh wow, so you have been into Bitcoin for almost four years now?**
+A: Yes.
+
+**Q: And you have learned a lot in that time?**
+A: Yes. I have also been having online classes with Jason. He is from the US, in Ohio.
+
+**Q: What kind of classes?**
+A: We were reading the [Bitcoin White Paper](https://bitcoin.org/bitcoin.pdf). Every Tuesday, we have sessions—kind of like a book club.
+
+**Q: So I assume, since you set up the node yourself, you really like this kind of work. What were you doing before you got into Bitcoin?**
+A: Before Bitcoin, I was just sitting in the house, playing with other children when I was around 10 or 11. Then I joined [The Surfer Kids](https://www.thesurferkids.com/) in May 2019. I think I was in grade five.
+
+**Q: And you did not know about Bitcoin back then?**
+A: No, I was just going to school, coming back home, doing homework—that was it.
+
+**Q: When did that change? When did you realize you liked this?**
+A: My friend introduced me to The Surfer Kids, and I was interested. I joined to learn how to surf. But surfing was hard for me. I was struggling to adapt. That is when I first met Christo, and he introduced me to Bitcoin.
+
+**Q: So that was your first contact with Bitcoin?**
+A: Yes. That is where I learned about it.
+
+**Q: I remember being there once, three years ago, when Christo was teaching. You were learning with sats and passing Lightning torches around, right?**
+A: Yes. That was my first time learning about Bitcoin.
+
+**Q: What did you like about it?**
+A: The science behind it. Like how did [Satoshi Nakamoto](https://en.wikipedia.org/wiki/Satoshi_Nakamoto) create it? It was so interesting. I wanted to know what Bitcoin is and how it works—the Bitcoin network around the world.
+
+**Q: So you were not just interested in using it—you wanted to understand it?**
+A: Yes.
+
+**Q: That is super great, I love it. So what are your plans for the next years?**
+A: I want to go to a university of technology. I want to study and become a computer scientist, an IT specialist. Then I will start investing in Bitcoin, saving Bitcoin. Then I want to buy a house and a car.
+
+**Q: Using Bitcoin?**
+A: Yes. I am just going to take it step by step.
+
+**Q: And I think with your experience already at that young age, you are going to be a great Bitcoin or Lightning developer.**
+A: Yes, very much.
+
+**Q: Super! Thank you.**
+A: Thank you so much.
+
