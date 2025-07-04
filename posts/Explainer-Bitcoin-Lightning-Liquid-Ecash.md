@@ -101,5 +101,3 @@ And the mint doesn't even know if you redeem the grains yourself or if you send 
 ### Final Thoughts
 
 So that was a long and winding but hopefully helpful picture or image, analogy of Liquid, Lightning, Bitcoin and eCash tokens.
-
-Let me know if you'd like this in a downloadable format like PDF or Markdown.
