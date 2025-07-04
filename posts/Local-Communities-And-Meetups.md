@@ -18,4 +18,22 @@ I discuss the critical role that community and meetups play in driving Bitcoin a
 
 ## Transcript
 
-It's very important to be on the ground so to show up, to explain things, especially to get into the problems that are really there on the ground because we can't imagine the problems that people have in these countries. It's so different from our lives, and people have to hustle every day. From that perspective, when they come to a talk or a workshop, it's very important to build trust. From there on, I believe you need sustainable education in the sense that you have a person or a group of people where you can go to. I mean, it's the same in Europe with the meetups, you know. Meetups are great because you always have the possibility to meet someone who knows more about Bitcoin than you, and you can ask them. You can maybe exchange Bitcoin to fiat currencies and back. That's why I think it's so important to have these local initiatives, the local Bitcoin meetup groups, who can share knowledge with each other, have their own WhatsApp groups or Telegram groups to stay in touch about the newest developments in their own region. That is what we have been doing with Bitcoin for Fairness in Zambia and in Zimbabwe and supporting other initiatives in other African countries. Crack the Orange is basically leveling it up, so it's a level two education, so that the communities on the ground can grow by themselves. The program is 12 months, so in that 12 months, they can always check in and ask new questions. And as we all know, Bitcoin and especially Lightning is a very fast-developing technology, so things change very often. I think it's important that people have contacts to check back on what's the best wallet at the moment and things like that. 
+### Importance of Being on the Ground
+
+It's very important to be on the ground, to show up, and to explain things—especially to understand the real problems people face. We can't imagine the challenges that people in these countries are dealing with. Their daily realities are very different from ours, and people have to hustle every day. From that perspective, when they attend a talk or a workshop, it's crucial to build trust.
+
+### The Need for Sustainable Education
+
+From there on, I believe you need sustainable education—meaning there should be a person or a group of people one can consistently turn to. It's the same in Europe with meetups. Meetups are great because you always have the opportunity to meet someone who knows more about Bitcoin than you, and you can ask them questions. You might even exchange Bitcoin for fiat currencies and back.
+
+### Value of Local Initiatives
+
+That's why I think it's so important to have local initiatives—local Bitcoin meetup groups that can share knowledge with each other. They can have their own WhatsApp or Telegram groups to stay in touch and keep up with new developments in their own region.
+
+### Role of Bitcoin for Fairness and Crack the Orange
+
+That is what we have been doing with [Bitcoin for Fairness](https://bffbtc.org) in Zambia and Zimbabwe, and supporting other initiatives in other African countries. [Crack the Orange](https://my.cracktheorange.com) is basically leveling it up—it’s a level two education program that helps local communities grow independently.
+
+### A Continuous Learning Process
+
+The program lasts 12 months, and during that time, participants can always check in and ask new questions. As we all know, Bitcoin—and especially Lightning—is a fast-developing technology, so things change frequently. I think it's important that people have contacts they can return to for updates, like knowing what the best wallet is at any given moment.
