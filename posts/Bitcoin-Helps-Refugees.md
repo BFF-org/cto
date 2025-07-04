@@ -19,70 +19,48 @@ I am talking with a representative of Refugees United, an organization that uses
 
 ## Transcript
 
-We are talking to a representative of Refugees United, an organization that is using Bitcoin to send emergency relief funds directly to the people in African countries where there are landslides or other sorts of catastrophes. They also help refugees to find each other again after they had to flee their country, and they help them to use Bitcoin to receive donations from all over the world.
+We are talking to a representative of Refugees United, an organization that is using Bitcoin to send emergency relief funds directly to the people in African countries where there are landslides or other sorts of catastrophes. They also help refugees to find each other again after they had to flee their country, and they help them to use Bitcoin to receive donations from all over the world. 
 
-### About the Organization
+Q: Please tell us about your organization. What are you doing? What's the name, and what are you doing?
 
-Please tell us about your organization. What are you doing? What's the name, and what are you doing?
+A: The organization is called [REFUNITE](https://refunite.org/), and what we do originally, we started as a family tracing platform to come and reach the level of becoming the world's largest family tracing database for refugees and asylum seekers searching for missing families. But right now, we help with what we call the [Relay Help](https://relayhelp.refunite.org/). We pass the help using Bitcoin to communities across Africa in need who are able to be put in the middle of the problem-solving equation, meaning they tell us what is the biggest challenge, the most urgent challenge they're facing, how they believe they will solve it, and they will go ahead and do that while we provide the funds.
 
-The organization is called REFUNITE, and what we do originally, we started as a family tracing platform to come and reach the level of becoming the world's largest family tracing database for refugees and asylum seekers searching for missing families. But right now, we help with what we call the relay help. We pass the help using Bitcoin to communities across Africa in need who are able to be put in the middle of the problem-solving equation, meaning they tell us what is the biggest challenge, the most urgent challenge they're facing, how they believe they will solve it, and they will go ahead and do that while we provide the funds.
+Q: Okay, can you tell us an example, please? Where does the Bitcoin come into the equation? How does your organization use Bitcoin?
 
-### Example of Bitcoin Use in Emergency Relief
+A: Yes, we know, for example, a couple of months ago in Burundi, due to heavy rains, three-quarters of a village was literally covered because of a landslide. In this case, if you try to use traditional mechanisms to transfer funds to this location, which is remote, it will take ages, and in those cases, every single minute, every single hour is a life-and-death situation. So Bitcoin has the power to go and reach people where they are, where fiat or cash money can't because the banks are closed at night, but Bitcoin operates 24/7, and you send basically the Bitcoin directly into people's phones, into their wallets.
 
-Okay, can you tell us an example, please? Where does the Bitcoin come into the equation? How does your organization use Bitcoin?
+Q: Absolutely. So, how do they pay for things then? Because I think Bitcoin is not accepted there as a means of payment yet. So how do they do that? How do they get local currencies?
 
-Yes, we know, for example, a couple of months ago in Burundi, due to heavy rains, three-quarters of a village was literally covered because of a landslide. In this case, if you try to use traditional mechanisms to transfer funds to this location, which is remote, it will take ages, and in those cases, every single minute, every single hour is a life-and-death situation.
+A: Yes, the beauty of this is that we have [Fedi](https://fedi.xyz/), who is our partner, who helps to do the magic of having a huge network of people who can support anytime 24/7, as well as systems and solutions to convert the funds from Bitcoin into local currency, into mobile money, so people can withdraw that directly.
 
-So Bitcoin has the power to go and reach people where they are, where fiat or cash money can't because the banks are closed at night, but Bitcoin operates 24/7, and you send basically the Bitcoin directly into people's phones, into their wallets.
+Q: Oh, that's already working?
 
-### Converting Bitcoin to Local Currency
+A: Yes, absolutely.
 
-Absolutely. So, how do they pay for things then? Because I think Bitcoin is not accepted there as a means of payment yet. So how do they do that? How do they get local currencies?
+Q: Oh, I didn't know that. So it's a little bit similar to [Tando](https://tando.me/) in Kenya; you send Bitcoin, but people receive mobile money?
 
-Yes, the beauty of this is that we have Fedi, who is our partner, who helps to do the magic of having a huge network of people who can support anytime 24/7, as well as systems and solutions to convert the funds from Bitcoin into local currency, into mobile money, so people can withdraw that directly.
+A: Yes, you can actually do that, and the beauty of this is that we took this one step further with the partnership with Fedi, where we have the donor inside of a group where the funds are put as a tool, and the donor himself or herself will release the funds to the right beneficiaries.
 
-### How the System Works
+Q: Ah, okay. So the donor is basically in the chat group with the recipients. He or she can talk to the people, can identify what the need is, and then decide themselves what they want to donate.
 
-Oh, that's already working?
+A: Exactly. They will identify what they want to donate for, to whom, and for what, and it goes directly to the people.
 
-Yes, absolutely.
+Q: So there's no overhead from your organization. It's not like you take the donations and then a part of it, which many organizations do; only a part of the money really reaches the people who need the money?
 
-Oh, I didn't know that. So it's a little bit similar to Tando in Kenya; you send Bitcoin, but people receive mobile money?
+A: It is relay help. We just relay the help because we believe we need to reinvent the way humanitarian organizations have been doing and providing humanitarian assistance. Right now, there is a crisis in terms of lack of trust in terms of donations. Yes, you find a small fraction only will reach the communities. But as we deal with emergency responses, emergency situations, we don't have the luxury to gather the money, pile it, and take a small portion to send. It has to be sent directly to the people.
 
-Yes, you can actually do that, and the beauty of this is that we took this one step further with the partnership with Fedi, where we have the donor inside of a group where the funds are put as a tool, and the donor himself or herself will release the funds to the right beneficiaries.
+Q: Last question: why do you use Bitcoin and not maybe Solana or Ethereum or any other of these cryptocurrencies? You can also send them cross-border.
 
-### Direct Donor Involvement
+A: You know, we all know that there is no match for what Bitcoin is in terms of philosophy, what Bitcoin is in terms of practicality, in terms of security. Yes, there is no match. I respect everybody and whatever cryptocurrency they're using, but there is no match because Bitcoin is something just, you know, unique. It is on another planet, and everybody else, they are on another planet in practicality, philosophy, security, and trust.
 
-Ah, okay. So the donor is basically in the chat group with the recipients. He or she can talk to the people, can identify what the need is, and then decide themselves what they want to donate.
+Q: Okay, now the last question: in which countries are you operating or where are you working?
 
-Exactly. They will identify what they want to donate for, to whom, and for what, and it goes directly to the people.
+A: Yes, we are right now in over 60 countries. And some of these operations that I'm talking about - this pilot project called Relay Help - we have done that in over 12 countries right now.
 
-### Eliminating Overhead Costs
+Q: African countries?
 
-So there's no overhead from your organization. It's not like you take the donations and then a part of it, which many organizations do; only a part of the money really reaches the people who need the money?
+A: African countries, yes.
 
-It is relay help. We just relay the help because we believe we need to reinvent the way humanitarian organizations have been doing and providing humanitarian assistance. Right now, there is a crisis in terms of lack of trust in terms of donations. Yes, you find a small fraction only will reach the communities. But as we deal with emergency responses, emergency situations, we don't have the luxury to gather the money, pile it, and take a small portion to send. It has to be sent directly to the people.
+Q: Okay, interesting. Thank you very much.
 
-### Why Bitcoin Over Other Cryptocurrencies
-
-Last question: why do you use Bitcoin and not maybe Solana or Ethereum or any other of these cryptocurrencies? You can also send them cross-border.
-
-You know, we all know that there is no match for what Bitcoin is in terms of philosophy, what Bitcoin is in terms of practicality, in terms of security. Yes, there is no match. I respect everybody and whatever cryptocurrency they're using, but there is no match because Bitcoin is something just, you know, unique. It is on another planet, and everybody else, they are on another planet in practicality, philosophy, security, and trust.
-
-### Geographical Reach
-
-Okay, now the last question: in which countries are you operating or where are you working?
-
-Yes, we are right now in over 60 countries. And some of these operations that I'm talking about - this pilot project called Relay Help - we have done that in over 12 countries right now.
-
-African countries?
-
-African countries, yes.
-
-### Closing
-
-Okay, interesting. Thank you very much.
-
-My pleasure.
-
-
+A: My pleasure.
