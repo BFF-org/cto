@@ -33,7 +33,48 @@ So now I want you to show, because I'm very excited that we have a lot of develo
 And so that's why I also want to show you that video, because this is a young guy from Bitcoin Ekasi. Bitcoin Ekasi is a project in Mossel Bay in South Africa in a township where they started a circular economy. So people are earning Bitcoin there and they go to the township where they live and they spend it there. So they onboarded merchants. And this young guy was one of the kids in the surf school where the whole movement and project started. So I want to show you what he says. I hope it's loud enough.
 
 #### Video Transcript:
-Hello, nice to meet you. Slooh told me that you were the one who set up the Lightning node. Yes. Is that true? True. Can you show me that one? In there. This one? And that's now a Lightning node? A full node. It’s a full node. What is on there? You are using? A BTC Pay Server. Mhm. And how did you learn all of that? We were doing online meetups with Open Arms. Ah, okay, that's super great. And how long did you have to learn to know how to do it? Approximately, I think it was five to six months. Uh-huh. Yeah. But you are really interested in it, hey? Very much. So much. Is this going to be your job in the future? Maybe, I think so, yeah. Do you like it? Yeah, I like it so much. Computer science, everything in computers. I love it. Super! What are your goals? I mean, you are also using Bitcoin yourself?
+
+# Lightning Node Setup Q&A Transcript
+
+**Q: Hello, nice to meet you. Slooh told me that you were the one who set up the Lightning node. Is that true?**
+
+A: True.
+
+**Q: Can you show me that one?**
+
+A: In there.
+
+**Q: This one? And that's now a Lightning node?**
+
+A: A full node. It's a full node.
+
+**Q: What is on there? You are using?**
+
+A: A BTC Pay Server.
+
+**Q: Mhm. And how did you learn all of that?**
+
+A: We were doing online meetups with Open Arms.
+
+**Q: Ah, okay, that's super great. And how long did you have to learn to know how to do it?**
+
+A: Approximately, I think it was five to six months.
+
+**Q: Uh-huh. Yeah. But you are really interested in it, hey?**
+
+A: Very much. So much.
+
+**Q: Is this going to be your job in the future?**
+
+A: Maybe, I think so, yeah.
+
+**Q: Do you like it?**
+
+A: Yeah, I like it so much. Computer science, everything in computers. I love it.
+
+**Q: Super! What are your goals? I mean, you are also using Bitcoin yourself?**
+
+A: [Response provided in [the full video on YouTube](https://www.youtube.com/watch?v=ZeRQgpIckzg)]
 
 That's just to, you can find that also on YouTube in a couple of days. We will also put up his Lightning address. So if anyone wants, please send him a little bit. So that's Bongani. 
 
