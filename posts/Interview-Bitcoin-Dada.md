@@ -18,8 +18,8 @@ taxonomy:
 
 I sit down with Marcel Lorraine, founder of Bitcoin Dada, to explore how Bitcoin is empowering women in Kenya. We discuss the challenges women face, like lack of inheritance rights, discrimination, and how Bitcoin offers a lifeline to financial independence. It’s an inspiring look at how technology can break social barriers.
 
-## Transcript-
-We’re on our way to the center of Nairobi to meet Marcel Lorraine. Marcel is the founder of [Bitcoin Dada](https://btcdada.com/), an organization that is educating women about Bitcoin. She's also the founder of [Dada Devs](https://dadadevs.com/), which you might guess already is an organization that is focused on educating females to become Bitcoin developers, which I believe is very, very important, especially in countries like Kenya or other African countries, but also globally. We need more female developers to bring their perspectives into Bitcoin.
+## Transcript
+We’re on our way to the center of Nairobi to meet Marcel Lorraine. Marcel is the founder of [Bitcoin Dada](https://btcdada.com/), an organization that is educating women about Bitcoin. She's also the founder of [Dada Devs](https://my.cracktheorange.com/adoption-africa/interview-bitcoin-dada-devs/), which you might guess already is an organization that is focused on educating females to become Bitcoin developers, which I believe is very, very important, especially in countries like Kenya or other African countries, but also globally. We need more female developers to bring their perspectives into Bitcoin.
 
 **Q:** Marcel, you are the founder of Bitcoin Dada and now also Dada Devs, yes?
 

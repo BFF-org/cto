@@ -16,11 +16,11 @@ taxonomy:
 
 ## Excerpt
 
-I talk with Marcel Lorraine, founder of Bitcoin Dada Devs, about how women in Africa are using Bitcoin to solve real problems. From payment apps to online commerce, we explore how female developers are creating powerful solutions. Don’t miss these inspiring stories of innovation and change!
+I talk with Marcel Lorraine, founder of [Bitcoin Dada Devs](https://my.cracktheorange.com/adoption-africa/interview-bitcoin-dada-devs/), about how women in Africa are using Bitcoin to solve real problems. From payment apps to online commerce, we explore how female developers are creating powerful solutions. Don’t miss these inspiring stories of innovation and change!
 
 ## Transcript
 
-We’re on our way to the center of Nairobi to meet Marcel Lorraine. Marcel is the founder of Bitcoin Dada, an organization that is educating women about Bitcoin. She's also the founder of Dada Devs, which you might guess already is an organization that is focused on educating females to become Bitcoin developers, which I believe is very, very important, especially in countries like Kenya or other African countries, but also globally. We need more female developers to bring their perspectives into Bitcoin.
+We’re on our way to the center of Nairobi to meet Marcel Lorraine. Marcel is the founder of [Bitcoin Dada, an organization that is educating women about Bitcoin](https://my.cracktheorange.com/adoption-africa/interview-bitcoin-dada/). She's also the founder of Dada Devs, which you might guess already is an organization that is focused on educating females to become Bitcoin developers, which I believe is very, very important, especially in countries like Kenya or other African countries, but also globally. We need more female developers to bring their perspectives into Bitcoin.
 
 **A:** We’ll have the continuous cycles of poverty year in, year out, but Bitcoin is sort of like a lifeline. It changes the narrative for us.
 
