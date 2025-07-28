@@ -19,4 +19,51 @@ Understand UTXOs (Unspent Transaction Outputs) and coin control in Bitcoin. I ex
 
 ## Transcript
 
-I find it hard to understand UTXOs and how I do the coin control. Could you please explain it again in a more simple way? How important is it to do the UTXO management and which tools can I use to do it? Okay, I repeat. A UTXO, an unspent transaction output, is basically a chunk of bitcoin that sits on a location on the blockchain, which is a Bitcoin address. A Bitcoin address can be empty, it can hold one UTXO (one chunk of bitcoin) or multiple UTXOs if you reuse the address. So let's assume you have a wallet and in that you have several addresses with chunks of bitcoin. Let's say you have one coin with 10,000 satoshis, another one with 10,000 satoshis, another one with 30,000 satoshis and one with 50,000 satoshis which is in total 100,000 satoshis. So these 10,000 satoshi chunks, the transaction fees will be higher than that amount that you have sitting in that address, in that UTXO. So assume, now you want to send someone 90,000 satoshis. Your wallet if it doesn't provide you with the possibility to do coin control, then your wallet will choose which coins to combine to the new transaction. So it might use one 10,000 satoshi chunk, the 30,000 satoshi chunk and the 50,000 satoshi chunk. Then it can send exactly the 90,000 satoshis but each of these UTXOs has a data size. So it's a little bit like imagine you want to send one PDF to someone. Then this one PDF has lower data size than if you were to send three of those PDFs. So it's the same way with UTXOs. The more UTXOs your wallet has to combine to build a new transaction to send it, the higher the fees because the transaction fees in Bitcoin are coming from the data size of the transaction. So that means if you had, for instance, an UTXO with let's say 300,000 satoshis on it and you could choose it via coin control then you would only need one of these UTXOs, one data size, one data set, to send which reduces your fees. So you can save on fees like that. So for instance in the BlueWallet you can do coin control. When you're preparing a transaction to be sent, you click on the sent button and then on the top right of the BlueWallet you see three dots, clicking on the dots opens a menu where you find the coin control and on that page you can see all the coins, all the UTXOs that you have in your wallet and can you can manually click on those that you want to combine. And in that way you can save on fees because you are so clever to combine the least transactions you need, the least UTXOs you need for that. And also, you can also do that in Sparrow. The Sparrow Wallet is a desktop wallet which you can also use in combination with your hardware wallet. And the Sparrow Wallet allows you to scroll through all the UTXOs within your wallet and you can select one or multiple of these UTXOs. It looks a little bit like a spreadsheet, you can delete one or more rows and then you can combine them and send them in one transaction. And this coin control management, the UTXO management, is not something, it's not a singular goal so you don't do it and then you're done forever. You basically have to constantly do it. So like I don't know, two times a year or something. To balance your priorities also between privacy, short-term fee savings and long-term fee savings and even the possibility to send you 20 euros for instance from your Green Wallet somewhere else. So having lots of small UTXOs is better for privacy because if someone gets your address they can look it up on the blockchain and see how much bitcoin you have on that so it might be better for privacy. But it will cost you more fees if you want to send a higher balance, a higher amount and on the other hand having all your bitcoin in one big UTXOs and reusing that address over and over is not good for your privacy and security as well. So UTXO management is really something that also I'm working on. I have the plan to do a guide and a tutorial on that and to show you how that works because I believe this is really going to be important in the coming years and also for people who start using Bitcoin now.
+
+### UNDERSTANDING UTXOS AND COIN CONTROL
+
+**Q:** I find it hard to understand UTXOs and how I do the coin control. Could you please explain it again in a more simple way? How important is it to do the UTXO management and which tools can I use to do it?
+
+**A:** Okay, I repeat. A UTXO, an unspent transaction output, is basically a chunk of bitcoin that sits on a location on the blockchain, which is a Bitcoin address. A Bitcoin address can be empty, it can hold one UTXO (one chunk of bitcoin) or multiple UTXOs if you reuse the address.
+
+So let's assume you have a wallet and in that you have several addresses with chunks of bitcoin. Let's say you have one coin with 10,000 satoshis, another one with 10,000 satoshis, another one with 30,000 satoshis and one with 50,000 satoshis which is in total 100,000 satoshis.
+
+### WHY SMALL UTXOS INCREASE FEES
+
+So these 10,000 satoshi chunks, the transaction fees will be higher than that amount that you have sitting in that address, in that UTXO.
+
+So assume, now you want to send someone 90,000 satoshis. Your wallet, if it doesn't provide you with the possibility to do coin control, then your wallet will choose which coins to combine to the new transaction. So it might use one 10,000 satoshi chunk, the 30,000 satoshi chunk and the 50,000 satoshi chunk.
+
+Then it can send exactly the 90,000 satoshis, but each of these UTXOs has a data size. So it's a little bit like imagine you want to send one PDF to someone. Then this one PDF has lower data size than if you were to send three of those PDFs.
+
+So it's the same way with UTXOs. The more UTXOs your wallet has to combine to build a new transaction to send it, the higher the fees because the transaction fees in Bitcoin are coming from the data size of the transaction.
+
+### HOW COIN CONTROL HELPS
+
+So that means if you had, for instance, a UTXO with let's say 300,000 satoshis on it and you could choose it via coin control, then you would only need one of these UTXOs, one data size, one data set, to send — which reduces your fees. So you can save on fees like that.
+
+So for instance, in the BlueWallet you can do coin control. When you're preparing a transaction to be sent, you click on the send button and then on the top right of the BlueWallet you see three dots. Clicking on the dots opens a menu where you find the coin control, and on that page you can see all the coins, all the UTXOs that you have in your wallet, and you can manually click on those that you want to combine.
+
+And in that way, you can save on fees because you are so clever to combine the least transactions you need — the least UTXOs you need — for that.
+
+### USING SPARROW WALLET FOR UTXO MANAGEMENT
+
+And also, you can also do that in [Sparrow Wallet](https://www.youtube.com/watch?v=eO3-lkjRkWg) — the Sparrow Wallet is a desktop wallet which you can also use in combination with your hardware wallet.
+
+And the Sparrow Wallet allows you to scroll through all the UTXOs within your wallet and you can select one or multiple of these UTXOs. It looks a little bit like a spreadsheet, you can delete one or more rows and then you can combine them and send them in one transaction.
+
+### WHY UTXO MANAGEMENT IS ONGOING
+
+And this coin control management, the UTXO management, is not something, it's not a singular goal — so you don't do it and then you're done forever. You basically have to constantly do it. So like, I don't know, two times a year or something.
+
+To balance your priorities also between privacy, short-term fee savings and long-term fee savings and even the possibility to send you 20 euros for instance from your Green Wallet somewhere else.
+
+### TRADE-OFFS: PRIVACY VS FEES
+
+So having lots of small UTXOs is better for privacy because if someone gets your address they can look it up on the blockchain and see how much bitcoin you have on that. So it might be better for privacy.
+
+But it will cost you more fees if you want to send a higher balance, a higher amount. And on the other hand, having all your bitcoin in one big UTXO and reusing that address over and over is not good for your privacy and security as well.
+
+### WHY THIS MATTERS FOR THE FUTURE
+
+So UTXO management is really something that also I'm working on. I have the plan to do a guide and a tutorial on that and to show you how that works because I believe this is really going to be important in the coming years and also for people who start using Bitcoin now.
