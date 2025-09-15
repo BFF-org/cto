@@ -4,4 +4,4 @@ This is the content repository for https://cracktheorange.com
 
 ![Statistics](https://github.com/BFF-org/cto/blob/main/_images/250915-CTO-Scholarships-Report.jpeg)
 
-![[_250915-CTO-Scholarships-Report.jpeg]]
+![[250915-CTO-Scholarships-Report.jpeg]]
