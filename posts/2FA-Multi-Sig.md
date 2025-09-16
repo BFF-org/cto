@@ -23,7 +23,7 @@ Additionally the Blockstream Wallet offers Liquid and Lightning payments. If you
 
 ## Transcript
 
-### Green Wallet: A Multi-Sig Tutorial
+### Blockstream Wallet: A Multi-Sig Tutorial
 
 You have recently released a tutorial on how to install the Blockstream Wallet. The Blockstream Wallet offers multi-sig options. What makes it different from other wallets that offer multi-sig, too?
 
