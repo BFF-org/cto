@@ -9,6 +9,7 @@ featured_image: /_images/ProtectYourSeed.jpeg
 <div style="margin-bottom:30px;"></div>
 
 ## Additional Information
+
 * [Steel Wallet Tests by Jameson Lopp](anita.link/metalseed)
 
 ## Transcript
