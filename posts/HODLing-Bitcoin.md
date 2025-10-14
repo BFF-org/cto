@@ -1,0 +1,22 @@
+---
+title: Why Just HODLing Bitcoin Isn’t Enough - What Really Drives Its Value
+post_status: publish
+post_excerpt: I dive into why simply HODLing Bitcoin isn’t enough to secure its future.
+featured_image: /_images/WhyJustHODLingBitcoinIsntEnoughWhatReallyDrivesItsValue.jpeg
+taxonomy:
+ category:
+  - using-bitcoin
+
+---
+
+<iframe src="https://player.vimeo.com/video/1087302444?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" title="Why Just HODLing Bitcoin Isn’t Enough: What Really Drives Its Value"></iframe>
+
+<div style="margin-bottom:30px;"></div>
+
+## Excerpt
+
+I dive into why simply HODLing Bitcoin isn’t enough to secure its future. I explore what truly drives Bitcoin’s value: scarcity, network effects, utility, and miner incentives. If you care about Bitcoin's long-term success, start using and earning it today!
+
+## Transcript
+
+Bitcoin's value comes from a combination of factors. Bitcoin has a hard cap of 21 million coins that will ever exist. And this is a big, big difference to our national currencies, whose supply has no cap at all. It's infinite, which is the reason why it loses value all the time. Because if we see a unit of a currency like a good, then limited supply combined with demand increases its value and therefore its price on the public market. Whereas more supply of a currency needs even higher demand so that the value of one unit doesn't decrease. And the predictable issuance of bitcoin with it getting scarcer over time makes its issuance deflationary, but it can increase the demand because of the psychological factors, which then again increase its price. So what I see is that the vast amount of people using bitcoin at the moment think that scarcity is enough and holding and hoarding bitcoin will make its price go up. I see that mostly in Western countries, in Europe or in the USA. While that is one aspect of Bitcoin, there is more to it. The value of Bitcoin depends on adoption and network effects too. By earning and spending bitcoin, its utility is increased and its value too. By self-custodying and spending, Bitcoin miners earn transaction fees, which will become even more important in about 120 years when the hard cap of 21 million is reached. The transaction fees will be the only income of miners and if there are not enough fees paid, Bitcoin will die. Because the security that miners are bringing to the system and its decentralization are also factors that drive the value. Not enough hash rate because mining is not profitable? The security of the Bitcoin network decreases. So, people who want Bitcoin to succeed are well advised to start using their funds, although the value of Bitcoin might go up over time and they feel they lose something by spending it now. The pizza guy, Laszlo Hanyecz, who spent 10,000 bitcoin for two pizzas on May 22 in 2010, is often pitied, but he regrets nothing. Same as Jeremy Sturdivant, who filled the order for the pizzas and accepted the bitcoin. He spent the bitcoin immediately for traveling. Hanyecz said, I got pizza for contributing to an open source project. Usually, hobbies are a time sink and money sink, and in this case, my hobby bought me dinner. And Sturdivant feels, I'd like to think that what I did helped the network. The pizza guy was a software engineer and one of the first contributors to the code. He invented GPU mining, which gave him a lucrative advantage while mining at that time. That means he stayed in Bitcoin, developing it further, and it's assumed that he is very well off today. And I can also tell you from my personal experience in the last eight years, that losing out feels true at the beginning when you start spending bitcoin. But the more you arrange your life, the way to earn bitcoin and spend it, then you will see over time, you're basically DCA-ing your way into bitcoin and out of bitcoin. And when the end goal is hyperbitcoinization, which I by the way, don't believe will happen anytime soon. But if this is the end goal, then how shall it be achieved if anyone is just whirling? So by earning and spending, also the network effect is pushed forward because each new user makes the network more valuable. So this is my shout out to everyone who's only hodling at the moment. Please start spending and earning bitcoin even in small amounts.

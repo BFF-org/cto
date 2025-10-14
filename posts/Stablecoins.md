@@ -1,0 +1,22 @@
+---
+title: Focus on Bitcoin, Not Stablecoins
+post_status: publish
+post_excerpt: I explain why stablecoins rely on the same broken systems that many are trying to escape.
+featured_image: /_images/FocusonBitcoinNotStablecoins.jpeg
+taxonomy:
+ category:
+  - altcoins
+  - financial-freedom
+---
+
+<iframe src="https://player.vimeo.com/video/1121735709?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" title="Focus on Bitcoin, Not Stablecoins"></iframe>
+
+<div style="margin-bottom:30px;"></div>
+
+## Excerpt
+
+In my work as an educator, I’ve chosen to focus on Bitcoin because it offers long-term freedom, not just short-term convenience. While stablecoins may seem helpful now, they rely on the same broken systems that many are trying to escape. Let’s empower people with real tools for change, not just comfort, and start by teaching the difference. Join me in spreading honest education that leads to real financial freedom.
+
+## Transcript
+
+In our work as educators, the question is what's the goal of our work? Is it promoting freedom technology or sharing knowledge about the most convenient and cheap way to send money within the existing banking system? Are you in to make long-term change happen and radically increase the opportunities individuals have and enable empowerment or do you want to support people in their current situation? Both things are valid, but I think promoting stablecoins is the wrong way. Stablecoins are leading us back to the traditional banking system that can be controlled, censored, banned, and totally surveilled. While Bitcoin is the alternative to it, only Bitcoin gives us the option to opt out of national systems that are designed to perpetually decrease the value of its underlying currency, making the rich richer, control the people, and allow corrupt rulers to siphon wealth off like no other. Stablecoins are misleading. They promise a stable value to the US dollar or other national currencies on top of the currently underlying broken structures. The inflation of the US dollar or the Zambian Kwacha is reflected in the value loss of its stablecoin. The use is convenient. Yes, now it's convenient, but it has negative long-term effects. Stablecoins can and will be captured by regulations. They might become the standard gateway for payments. I imagine that a future central bank currency will work similar to them. Stablecoins like USDT, Tether rely on a centralized issuer with all its downsides. They simply can't compete with Bitcoin's censorship resistance, its long-term wealth preservation and value increase, and its inclusive and permissionless access. The biggest advantages of a stablecoin like USDT or USDC is the short-term stability and predictable fixed fees. Contrary to Bitcoin or Lightning where the amount of fees is relying on the demand for on-chain transactions at the same time and it even involves additional fees in case of lightning which are not always clear to the user even if they might be very low. So I understand why people with little disposable income use USDT. It's a step up for them out of their own currency system which has much higher inflation than the US dollar and they can use it without the need for an ID. The question is how much longer because KYC will come sooner or later. Nonetheless, I would not promote stablecoins as people are using them for payments to a higher degree than Bitcoin already. so they know about it. I recommend as an educator that you share knowledge and the comparison between stablecoin technology and Bitcoin. Show ways how people can move money from Bitcoin to USDT and back. how they can secure the value for the long term with on-chain Bitcoin and emphasize the fact that when you use Bitcoin to receive remittances or donations and you spend or exchange it to local currency immediately, you don't lose any value. For those who can save money, just spend and replace the Bitcoin. I have done hundreds of payments for Bitcoin for fairness in different African countries and over the years I'm sure we have lost value but we also gain some. So my advice is really to speak about stablecoins and Bitcoin differentiate the two give strategical advice but with the focus of onboarding them to Bitcoin.
