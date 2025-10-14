@@ -1,5 +1,5 @@
 ---
-title: The OP_RETURN Drama and Why I Stick With Bitcoin Core
+title: The OP_RETURN Drama and Why I Stick With Bitcoin Core Not Knots
 post_status: publish
 post_excerpt: I explain the story behind OP_RETURN and data on the Bitcoin blockchain.
 featured_image: /_images/TheOPRETURNDramaandWhyIStickWithBitcoinCore.jpeg
@@ -15,7 +15,7 @@ taxonomy:
 
 ## Excerpt
 
-There’s been a lot of noise around OP_RETURN and data on the Bitcoin blockchain. I didn’t follow all the drama, but I listened to the people I trust: Developers who’ve been in this space for years. Here’s what I learned, why it matters, and why I choose to stick with Bitcoin Core.
+There’s been a lot of noise around OP_RETURN and data on the Bitcoin blockchain. I didn’t follow all the drama, but I listened to the people I trust: Developers who’ve been in this space for years. Here’s what I learned, why it matters, and why I choose to stick with Bitcoin Core instead of Knots.
 
 ## Transcript
 
