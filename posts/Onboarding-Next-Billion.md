@@ -1,7 +1,7 @@
 ---
 title: Onboarding Next 1 Billion To Bitcoin | Panel BTC Prague 2024
 post_status: publish
-post_excerpt: Calle, Abubakar Nur Khalil, Julian Liniger and Anita Posch discuss the challenges and strategies for onboarding the next billion people to Bitcoin.
+post_excerpt: Calle, Abubakar Nur Khalil, Julian Liniger and Anita discuss the challenges and strategies for onboarding the next billion people to Bitcoin.
 featured_image: /_images/OnboardingNext1BillionToBitcoinPanelBTCPrague2024.jpg
 taxonomy:
  category:

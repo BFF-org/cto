@@ -1,20 +1,20 @@
 ---
-title: First BitDevs Meetup Lusaka - Introduction to Bitcoin Development by Anita Posch
+title: First BitDevs Meetup Lusaka - Introduction to Bitcoin Development by Anita
 post_status: publish
-post_excerpt: Anita Posch spoke at the founding event of the Bitcoins Devs Lusaka about why Bitcoin matters for financial fairness and how developers can shape its future, especially in Africa.
+post_excerpt: Anita spoke at the founding event of the Bitcoins Devs Lusaka about why Bitcoin matters for financial fairness and how developers can shape its future, especially in Africa.
 featured_image: /_images/DevMeetupLusaka2025.jpg
 taxonomy:
  category:
   - adoption-africa
 ---
 
-<iframe src="https://player.vimeo.com/video/1087301630?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" title="Dev Meetup Lusaka 2025 | Anita Posch &amp; Bitcoin For Fairness"></iframe>
+<iframe src="https://player.vimeo.com/video/1087301630?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" title="Dev Meetup Lusaka 2025 | Anita &amp; Bitcoin For Fairness"></iframe>
 
 <div style="margin-bottom:30px;"></div>
 
 ## Excerpt
 
-Anita Posch spoke at the founding event of the Bitcoins Devs Lusaka about why Bitcoin matters for financial fairness and how developers can shape its future, especially in Africa. I shared stories, tools, and opportunities for learning and earning with Bitcoin. Watch now and take your first step into Bitcoin development today!
+Anita spoke at the founding event of the Bitcoins Devs Lusaka about why Bitcoin matters for financial fairness and how developers can shape its future, especially in Africa. I shared stories, tools, and opportunities for learning and earning with Bitcoin. Watch now and take your first step into Bitcoin development today!
 
 Here you can find the [slides of this talk](https://anitaposch.com/bitcoin-devs-start).
 
@@ -22,7 +22,7 @@ Here you can find the [slides of this talk](https://anitaposch.com/bitcoin-devs-
 
 ### Introduction
 
-So who am I? My name is Anita Posch. I was a web developer, online marketer, e-commerce project manager, and all these kinds of things for 20 years of my life. And then in 2011, I tweeted the first time about Bitcoin, but I can remember that. And I remember I was like, okay, I think this is just a new PayPal. I actually don't need that. And I dismissed it. So it took me also quite some time, but I'm also coming from a country like 100 years ago in Germany and Austria. We also had hyperinflation. So it's not only something that Zimbabweans or Venezuelans have to suffer through. Also in Europe, we had hyperinflation. That's why I made it my journey in a way to share Bitcoin knowledge, especially in African countries or in other countries in the global south. That's also why our organization is called Bitcoin for Fairness, because I believe that it's the best tool for communities who are disadvantaged for any reason to make the wealth disparities smaller. And it's now the time for you to be able to move up a little bit and become independent. That's why we always say self-sovereign in Bitcoin. And that's why I have been doing this for the last five years, traveling to different African countries and supporting communities on the ground. And also now we have started the Crack the Orange program to learn online, because of course, people like me, we can't go everywhere. But we want to support people everywhere and also learn from everywhere.
+So who am I? My name is Anita. I was a web developer, online marketer, e-commerce project manager, and all these kinds of things for 20 years of my life. And then in 2011, I tweeted the first time about Bitcoin, but I can remember that. And I remember I was like, okay, I think this is just a new PayPal. I actually don't need that. And I dismissed it. So it took me also quite some time, but I'm also coming from a country like 100 years ago in Germany and Austria. We also had hyperinflation. So it's not only something that Zimbabweans or Venezuelans have to suffer through. Also in Europe, we had hyperinflation. That's why I made it my journey in a way to share Bitcoin knowledge, especially in African countries or in other countries in the global south. That's also why our organization is called Bitcoin for Fairness, because I believe that it's the best tool for communities who are disadvantaged for any reason to make the wealth disparities smaller. And it's now the time for you to be able to move up a little bit and become independent. That's why we always say self-sovereign in Bitcoin. And that's why I have been doing this for the last five years, traveling to different African countries and supporting communities on the ground. And also now we have started the Crack the Orange program to learn online, because of course, people like me, we can't go everywhere. But we want to support people everywhere and also learn from everywhere.
 
 ### Importance of Local Solutions
 
