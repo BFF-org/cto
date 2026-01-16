@@ -36,7 +36,7 @@ To open that channel Phoenix has to conduct another on-chain transaction and is 
 
 ### Additional Resources and Testing
 
-You can find more details about Phoenix and other self-custody Lightning wallets in [this wallet test](https://anitaposch.com/lightning-wallet-test-2024) which I conducted in January this year in a rural area of Zimbabwe. As I always say: If Bitcoin works there or a wallet works there, it will work everywhere.
+You can find more details about Phoenix and other self-custody Lightning wallets in [this wallet test](https://anita.onl/lightning-wallet-test-2024) which I conducted in January this year in a rural area of Zimbabwe. As I always say: If Bitcoin works there or a wallet works there, it will work everywhere.
 
 ### Fee Management and Best Practices
 

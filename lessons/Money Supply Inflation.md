@@ -9,7 +9,7 @@ featured_image: /_images/MoneySupplyInflation.jpeg
 <div style="margin-bottom:30px;"></div>
 
 ## Additional Information
-* [M2 Money Stock Graph](https://anitaposch.com/inflation) - see below the chapter "Money Supply Inflation"
+* [M2 Money Stock Graph](https://anita.onl/inflation) - see below the chapter "Money Supply Inflation"
 
 ## Transcript
 

@@ -16,7 +16,7 @@ taxonomy:
 
 Anita spoke at the founding event of the Bitcoins Devs Lusaka about why Bitcoin matters for financial fairness and how developers can shape its future, especially in Africa. I shared stories, tools, and opportunities for learning and earning with Bitcoin. Watch now and take your first step into Bitcoin development today!
 
-Here you can find the [slides of this talk](https://anitaposch.com/bitcoin-devs-start).
+Here you can find the [slides of this talk](https://anita.onl/bitcoin-devs-start).
 
 ## Transcript
 

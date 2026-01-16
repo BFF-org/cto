@@ -93,4 +93,4 @@ Here someone sent 0.003387714 Bitcoin, and I think the recipient was getting 0.0
 
 To be honest, this person could have saved a little bit because, at the moment, the price for a Bitcoin transaction is three satoshis per vByte, which is only 27 cents, so they overpaid for this transaction. That's why it's always so important if you're doing an on-chain transaction to go into the website called [mempool.space](https://mempool.space) and look at the current fee rate, the current fees you need to pay for your transactions because the wallets sometimes overpay so that they are sure to be in the next block or the block after that.
 
-But if you know a payment isn't urgent, you can send it with [RBF (Replace by Fee)](https://anitaposch.com/rbf) active, and then, if it takes too long for you until it’s settled because you had a too-low fee, you can increase the fee and send the transaction again.
+But if you know a payment isn't urgent, you can send it with [RBF (Replace by Fee)](https://anita.onl/rbf) active, and then, if it takes too long for you until it’s settled because you had a too-low fee, you can increase the fee and send the transaction again.
