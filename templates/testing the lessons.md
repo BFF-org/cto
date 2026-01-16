@@ -1,7 +1,7 @@
 ---
 title: lessn-test
 post_status: publish
-featured_image: /_images/_anita-posch-500-2.jpg
+featured_image: /_images/_anita-500-2.jpg
 ---
 
 ## Welcome 
