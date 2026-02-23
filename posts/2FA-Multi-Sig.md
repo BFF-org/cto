@@ -1,5 +1,5 @@
 ---
-title: How to Add More Security to Your Bitcoin Wallet with 2FA Multi-Sig in Blockstream Wallet (formerly Green)
+title: How to Add More Security with 2FA Multi-Sig in Blockstream Wallet
 post_status: publish
 post_excerpt: I explain how to set up an easy to use multi-sig option with 2FA.
 featured_image: /_images/HowtoAddMoreSecuritytoYourBitcoinWalletwithEasy2FAMultiSig.jpg
