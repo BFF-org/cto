@@ -1,5 +1,5 @@
 ---
-title: Bitcoin for Beginners - How to Get, Save and Spend Bitcoin | Workshop AfroBitcoin Conference 2025
+title: Bitcoin for Beginners - How to Get, Save and Spend Bitcoin | Workshop
 post_status: publish
 post_excerpt: I explain how to get, save, and spend Bitcoin safely, without needing a bank.
 featured_image: /_images/BitcoinforBeginnersHowtoGetSaveandSpendBitcoinWorkshopAfroBitcoinConference2025.jpg
