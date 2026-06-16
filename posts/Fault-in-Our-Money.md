@@ -16,7 +16,7 @@ taxonomy:
 
 ## Excerpt
 
-I talk about the faults in our current money system, from inflation and banking dependence to currency controls and unfair access to credit. I share what I have learned through Bitcoin for Fairness while working with educators and communities across Africa, especially in Zimbabwe, Kenya, Zambia, Mozambique, and South Africa. Then I explain why Bitcoin can offer an alternative for saving, earning, sending, and owning money without relying on banks, IDs, or centralized control.
+I was invited to speak to the students of [Bitcoin Dada](https://my.cracktheorange.com/adoption-africa/interview-bitcoin-dada/) to address the faults in our current money system, from inflation and banking dependence to currency controls and unfair access to credit. I share what I have learned through Bitcoin for Fairness while working with educators and communities across Africa, especially in Zimbabwe, Kenya, Zambia, Mozambique, and South Africa. Then I explain why Bitcoin can offer an alternative for saving, earning, sending, and owning money without relying on banks, IDs, or centralized control.
 
 ## Transcript
 
