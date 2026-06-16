@@ -1,5 +1,5 @@
 ---
-title: The Fault in Our Money: Bitcoin Beyond Investment
+title: The Fault in Our Money - Bitcoin Beyond Investment
 post_status: publish
 post_excerpt: In this lesson for Bitcoin Dada I show how Bitcoin is more than speculation for women, families, and people shut out of the financial system. See how it works as a practical tool for savings, payments, and independence.
 featured_image: /_images/Fault-in-Our-Money.jpg
