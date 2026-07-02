@@ -9,7 +9,7 @@ taxonomy:
   - self-custody
 ---
 
-<iframe src="https://player.vimeo.com/video/1020824865?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Send Bitcoin From Green To Your BitBox02 &amp; Navigate High Fees"></iframe>
+<iframe src="https://player.vimeo.com/video/1020824865?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="1280" height="720" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" referrerpolicy="strict-origin-when-cross-origin" title="Send Bitcoin From Green To Your BitBox02 &amp; Navigate High Fees"></iframe>
 
 <div style="margin-bottom:30px;"></div>
 
