@@ -1,5 +1,5 @@
 ---
-title: Send Bitcoin From Green Wallet To Your BitBox02
+title: Send Bitcoin From Green Wallet To Your BitBox02 And Avoid High Fees
 post_status: publish
 post_excerpt: I explain how to safely transfer your bitcoin from your Green wallet to a BitBox02 for long-term storage while keeping transaction fees low.
 featured_image: /_images/SendBitcoinFromGreenToYourBitBox02NavigateHighFees.jpg
