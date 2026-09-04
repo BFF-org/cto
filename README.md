@@ -10,6 +10,6 @@ We worked through 444 applications, granted 341 scholarships and 156 graduates f
 
 Below are the numbers, find our detailed report of the program's impact at: ......
 
-![Statistics](https://github.com/BFF-org/cto/blob/main/_images/260903-CTO-Scholarships-Report.png)
-
 ![Graduates by country](https://github.com/BFF-org/cto/blob/main/_images/260903-CTO-Graduates-Country.png)
+
+![Statistics](https://github.com/BFF-org/cto/blob/main/_images/260903-CTO-Scholarships-Report.png)
