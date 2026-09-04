@@ -12,4 +12,7 @@ Below are the numbers, find our detailed report of the program's impact at: ....
 
 ![Graduates by country](https://github.com/BFF-org/cto/blob/main/_images/260903-CTO-Graduates-Country.png)
 
+
+![Graduates by country](https://github.com/BFF-org/cto/blob/main/_images/260903-CTO-Graduates-Country-Chart.png)
+
 ![Statistics](https://github.com/BFF-org/cto/blob/main/_images/260903-CTO-Scholarships-Report.png)
