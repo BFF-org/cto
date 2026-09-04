@@ -1,5 +1,9 @@
 This is the content repository for https://cracktheorange.com
 
-## Results for our Bitcoin for Fairness scholarship program
+## Results for the Crack the Orange scholarship program by Bitcoin for Fairness
+
+The online learning platform was started in 2023 and in 2024 we opened the course program with accompanying live calls and a community program to aspiring Bitcoin educators, developers, translators and community builders in the Global South. Students could apply for a scholarship and be in the program for 12 months.
+
+Below are the numbers, find our detailed report of the program's impact at: ......
 
 ![Statistics](https://github.com/BFF-org/cto/blob/main/_images/260903-CTO-Scholarships-Report.png)
